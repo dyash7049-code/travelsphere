@@ -2,7 +2,6 @@ require('dotenv').config();
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
-const { MongoMemoryServer } = require('mongodb-memory-server');
 const seedData = require('./seed');
 
 const app = express();
@@ -109,21 +108,33 @@ app.get('*', (req, res) => {
 const startServer = async () => {
   try {
     let mongoUri = process.env.MONGODB_URI;
-    let isMemory = false;
 
     if (!mongoUri || mongoUri.trim() === '') {
-      const mongod = await MongoMemoryServer.create();
-      mongoUri = mongod.getUri();
-      isMemory = true;
-      console.log('Using in-memory MongoDB at', mongoUri);
+      // Development: use in-memory MongoDB
+      try {
+        const { MongoMemoryServer } = require('mongodb-memory-server');
+        const mongod = await MongoMemoryServer.create();
+        mongoUri = mongod.getUri();
+        console.log('Using in-memory MongoDB at', mongoUri);
+      } catch (e) {
+        console.error('No MONGODB_URI set and mongodb-memory-server not available.');
+        console.error('Set MONGODB_URI environment variable to a MongoDB Atlas connection string.');
+        process.exit(1);
+      }
     }
 
     await mongoose.connect(mongoUri);
     console.log('Connected to MongoDB');
 
-    if (isMemory) {
-      console.log('Seeding initial data into in-memory DB...');
+    // Seed data if the database is empty
+    const Flight = require('./models/Flight');
+    const count = await Flight.countDocuments();
+    if (count === 0) {
+      console.log('Database empty — seeding initial data...');
       await seedData();
+      console.log('Data seeded successfully!');
+    } else {
+      console.log(`Database has ${count} flights — skipping seed.`);
     }
 
     app.listen(PORT, '0.0.0.0', () => {
