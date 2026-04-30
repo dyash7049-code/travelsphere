@@ -1,6 +1,8 @@
-const puppeteer = require('puppeteer');
+let puppeteer;
+try { puppeteer = require('puppeteer'); } catch(e) { puppeteer = null; }
 
 async function scrapeGoogleTravel(source, dest, type) {
+  if (!puppeteer) return null;
   let browser;
   try {
     console.log(`Starting Puppeteer scrape for ${type} from ${source} to ${dest}...`);
