@@ -99,7 +99,7 @@ const path = require('path');
 const frontendDist = path.join(__dirname, '..', 'frontend', 'dist');
 app.use(express.static(frontendDist));
 // Catch-all: send React app for any non-API route
-app.get('*', (req, res) => {
+app.get('{*path}', (req, res) => {
   if (!req.path.startsWith('/api')) {
     res.sendFile(path.join(frontendDist, 'index.html'));
   }
