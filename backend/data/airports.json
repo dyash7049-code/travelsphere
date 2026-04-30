@@ -1,0 +1,562 @@
+[
+  {
+    "city": "Delhi",
+    "detail": "Indira Gandhi International Airport (DEL)"
+  },
+  {
+    "city": "Mumbai",
+    "detail": "Chhatrapati Shivaji Maharaj Int. Airport (BOM)"
+  },
+  {
+    "city": "Bangalore",
+    "detail": "Kempegowda International Airport (BLR)"
+  },
+  {
+    "city": "Chennai",
+    "detail": "Chennai International Airport (MAA)"
+  },
+  {
+    "city": "Kolkata",
+    "detail": "Netaji Subhash Chandra Bose Int. Airport (CCU)"
+  },
+  {
+    "city": "Hyderabad",
+    "detail": "Rajiv Gandhi International Airport (HYD)"
+  },
+  {
+    "city": "Ahmedabad",
+    "detail": "Sardar Vallabhbhai Patel Int. Airport (AMD)"
+  },
+  {
+    "city": "Pune",
+    "detail": "Pune Airport (PNQ)"
+  },
+  {
+    "city": "Goa",
+    "detail": "Dabolim Airport (GOI)"
+  },
+  {
+    "city": "Goa",
+    "detail": "Manohar International Airport (GOX)"
+  },
+  {
+    "city": "Lucknow",
+    "detail": "Lucknow Airport (LUC)"
+  },
+  {
+    "city": "Kanpur",
+    "detail": "Kanpur Airport (KAN)"
+  },
+  {
+    "city": "Nagpur",
+    "detail": "Nagpur Airport (NAG)"
+  },
+  {
+    "city": "Indore",
+    "detail": "Indore Airport (IND)"
+  },
+  {
+    "city": "Thane",
+    "detail": "Thane Airport (THA)"
+  },
+  {
+    "city": "Bhopal",
+    "detail": "Bhopal Airport (BHO)"
+  },
+  {
+    "city": "Visakhapatnam",
+    "detail": "Visakhapatnam Airport (VIS)"
+  },
+  {
+    "city": "Pimpri-Chinchwad",
+    "detail": "Pimpri-Chinchwad Airport (PIM)"
+  },
+  {
+    "city": "Patna",
+    "detail": "Patna Airport (PAT)"
+  },
+  {
+    "city": "Vadodara",
+    "detail": "Vadodara Airport (VAD)"
+  },
+  {
+    "city": "Ghaziabad",
+    "detail": "Ghaziabad Airport (GHA)"
+  },
+  {
+    "city": "Ludhiana",
+    "detail": "Ludhiana Airport (LUD)"
+  },
+  {
+    "city": "Agra",
+    "detail": "Agra Airport (AGR)"
+  },
+  {
+    "city": "Nashik",
+    "detail": "Nashik Airport (NAS)"
+  },
+  {
+    "city": "Faridabad",
+    "detail": "Faridabad Airport (FAR)"
+  },
+  {
+    "city": "Meerut",
+    "detail": "Meerut Airport (MEE)"
+  },
+  {
+    "city": "Rajkot",
+    "detail": "Rajkot Airport (RAJ)"
+  },
+  {
+    "city": "Kalyan-Dombivli",
+    "detail": "Kalyan-Dombivli Airport (KAL)"
+  },
+  {
+    "city": "Vasai-Virar",
+    "detail": "Vasai-Virar Airport (VAS)"
+  },
+  {
+    "city": "Varanasi",
+    "detail": "Varanasi Airport (VAR)"
+  },
+  {
+    "city": "Srinagar",
+    "detail": "Srinagar Airport (SRI)"
+  },
+  {
+    "city": "Aurangabad",
+    "detail": "Aurangabad Airport (AUR)"
+  },
+  {
+    "city": "Dhanbad",
+    "detail": "Dhanbad Airport (DHA)"
+  },
+  {
+    "city": "Amritsar",
+    "detail": "Amritsar Airport (AMR)"
+  },
+  {
+    "city": "Navi Mumbai",
+    "detail": "Navi Mumbai Airport (NAV)"
+  },
+  {
+    "city": "Allahabad",
+    "detail": "Allahabad Airport (ALL)"
+  },
+  {
+    "city": "Ranchi",
+    "detail": "Ranchi Airport (RAN)"
+  },
+  {
+    "city": "Howrah",
+    "detail": "Howrah Airport (HOW)"
+  },
+  {
+    "city": "Coimbatore",
+    "detail": "Coimbatore Airport (COI)"
+  },
+  {
+    "city": "Jabalpur",
+    "detail": "Jabalpur Airport (JAB)"
+  },
+  {
+    "city": "Gwalior",
+    "detail": "Gwalior Airport (GWA)"
+  },
+  {
+    "city": "Vijayawada",
+    "detail": "Vijayawada Airport (VIJ)"
+  },
+  {
+    "city": "Jodhpur",
+    "detail": "Jodhpur Airport (JOD)"
+  },
+  {
+    "city": "Madurai",
+    "detail": "Madurai Airport (MAD)"
+  },
+  {
+    "city": "Raipur",
+    "detail": "Raipur Airport (RAI)"
+  },
+  {
+    "city": "Kota",
+    "detail": "Kota Airport (KOT)"
+  },
+  {
+    "city": "Chandigarh",
+    "detail": "Chandigarh Airport (CHA)"
+  },
+  {
+    "city": "Guwahati",
+    "detail": "Guwahati Airport (GUW)"
+  },
+  {
+    "city": "Solapur",
+    "detail": "Solapur Airport (SOL)"
+  },
+  {
+    "city": "Hubli-Dharwad",
+    "detail": "Hubli-Dharwad Airport (HUB)"
+  },
+  {
+    "city": "Tiruchirappalli",
+    "detail": "Tiruchirappalli Airport (TIR)"
+  },
+  {
+    "city": "Bareilly",
+    "detail": "Bareilly Airport (BAR)"
+  },
+  {
+    "city": "Moradabad",
+    "detail": "Moradabad Airport (MOR)"
+  },
+  {
+    "city": "Mysore",
+    "detail": "Mysore Airport (MYS)"
+  },
+  {
+    "city": "Tiruppur",
+    "detail": "Tiruppur Airport (TIR)"
+  },
+  {
+    "city": "Gurgaon",
+    "detail": "Gurgaon Airport (GUR)"
+  },
+  {
+    "city": "Aligarh",
+    "detail": "Aligarh Airport (ALI)"
+  },
+  {
+    "city": "Jalandhar",
+    "detail": "Jalandhar Airport (JAL)"
+  },
+  {
+    "city": "Bhubaneswar",
+    "detail": "Bhubaneswar Airport (BHU)"
+  },
+  {
+    "city": "Salem",
+    "detail": "Salem Airport (SAL)"
+  },
+  {
+    "city": "Mira-Bhayandar",
+    "detail": "Mira-Bhayandar Airport (MIR)"
+  },
+  {
+    "city": "Warangal",
+    "detail": "Warangal Airport (WAR)"
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "detail": "Thiruvananthapuram Airport (THI)"
+  },
+  {
+    "city": "Guntur",
+    "detail": "Guntur Airport (GUN)"
+  },
+  {
+    "city": "Bhiwandi",
+    "detail": "Bhiwandi Airport (BHI)"
+  },
+  {
+    "city": "Saharanpur",
+    "detail": "Saharanpur Airport (SAH)"
+  },
+  {
+    "city": "Gorakhpur",
+    "detail": "Gorakhpur Airport (GOR)"
+  },
+  {
+    "city": "Bikaner",
+    "detail": "Bikaner Airport (BIK)"
+  },
+  {
+    "city": "Amravati",
+    "detail": "Amravati Airport (AMR)"
+  },
+  {
+    "city": "Noida",
+    "detail": "Noida Airport (NOI)"
+  },
+  {
+    "city": "Jamshedpur",
+    "detail": "Jamshedpur Airport (JAM)"
+  },
+  {
+    "city": "Bhilai",
+    "detail": "Bhilai Airport (BHI)"
+  },
+  {
+    "city": "Cuttack",
+    "detail": "Cuttack Airport (CUT)"
+  },
+  {
+    "city": "Firozabad",
+    "detail": "Firozabad Airport (FIR)"
+  },
+  {
+    "city": "Kochi",
+    "detail": "Kochi Airport (KOC)"
+  },
+  {
+    "city": "Nellore",
+    "detail": "Nellore Airport (NEL)"
+  },
+  {
+    "city": "Bhavnagar",
+    "detail": "Bhavnagar Airport (BHA)"
+  },
+  {
+    "city": "Dehradun",
+    "detail": "Dehradun Airport (DEH)"
+  },
+  {
+    "city": "Durgapur",
+    "detail": "Durgapur Airport (DUR)"
+  },
+  {
+    "city": "Asansol",
+    "detail": "Asansol Airport (ASA)"
+  },
+  {
+    "city": "Rourkela",
+    "detail": "Rourkela Airport (ROU)"
+  },
+  {
+    "city": "Nanded",
+    "detail": "Nanded Airport (NAN)"
+  },
+  {
+    "city": "Kolhapur",
+    "detail": "Kolhapur Airport (KOL)"
+  },
+  {
+    "city": "Ajmer",
+    "detail": "Ajmer Airport (AJM)"
+  },
+  {
+    "city": "Akola",
+    "detail": "Akola Airport (AKO)"
+  },
+  {
+    "city": "Gulbarga",
+    "detail": "Gulbarga Airport (GUL)"
+  },
+  {
+    "city": "Jamnagar",
+    "detail": "Jamnagar Airport (JAM)"
+  },
+  {
+    "city": "Ujjain",
+    "detail": "Ujjain Airport (UJJ)"
+  },
+  {
+    "city": "Loni",
+    "detail": "Loni Airport (LON)"
+  },
+  {
+    "city": "Siliguri",
+    "detail": "Siliguri Airport (SIL)"
+  },
+  {
+    "city": "Jhansi",
+    "detail": "Jhansi Airport (JHA)"
+  },
+  {
+    "city": "Ulhasnagar",
+    "detail": "Ulhasnagar Airport (ULH)"
+  },
+  {
+    "city": "Jammu",
+    "detail": "Jammu Airport (JAM)"
+  },
+  {
+    "city": "Sangli-Miraj & Kupwad",
+    "detail": "Sangli-Miraj & Kupwad Airport (SAN)"
+  },
+  {
+    "city": "Mangalore",
+    "detail": "Mangalore Airport (MAN)"
+  },
+  {
+    "city": "Erode",
+    "detail": "Erode Airport (ERO)"
+  },
+  {
+    "city": "Belgaum",
+    "detail": "Belgaum Airport (BEL)"
+  },
+  {
+    "city": "Kurnool",
+    "detail": "Kurnool Airport (KUR)"
+  },
+  {
+    "city": "Ambattur",
+    "detail": "Ambattur Airport (AMB)"
+  },
+  {
+    "city": "Rajahmundry",
+    "detail": "Rajahmundry Airport (RAJ)"
+  },
+  {
+    "city": "Tirunelveli",
+    "detail": "Tirunelveli Airport (TIR)"
+  },
+  {
+    "city": "Malegaon",
+    "detail": "Malegaon Airport (MAL)"
+  },
+  {
+    "city": "Gaya",
+    "detail": "Gaya Airport (GAY)"
+  },
+  {
+    "city": "Udaipur",
+    "detail": "Udaipur Airport (UDA)"
+  },
+  {
+    "city": "Kakinada",
+    "detail": "Kakinada Airport (KAK)"
+  },
+  {
+    "city": "Davanagere",
+    "detail": "Davanagere Airport (DAV)"
+  },
+  {
+    "city": "Kozhikode",
+    "detail": "Kozhikode Airport (KOZ)"
+  },
+  {
+    "city": "Maheshtala",
+    "detail": "Maheshtala Airport (MAH)"
+  },
+  {
+    "city": "Rajpur Sonarpur",
+    "detail": "Rajpur Sonarpur Airport (RAJ)"
+  },
+  {
+    "city": "Bokaro",
+    "detail": "Bokaro Airport (BOK)"
+  },
+  {
+    "city": "South Dumdum",
+    "detail": "South Dumdum Airport (SOU)"
+  },
+  {
+    "city": "Bellary",
+    "detail": "Bellary Airport (BEL)"
+  },
+  {
+    "city": "Patiala",
+    "detail": "Patiala Airport (PAT)"
+  },
+  {
+    "city": "Gopalpur",
+    "detail": "Gopalpur Airport (GOP)"
+  },
+  {
+    "city": "Agartala",
+    "detail": "Agartala Airport (AGA)"
+  },
+  {
+    "city": "Bhagalpur",
+    "detail": "Bhagalpur Airport (BHA)"
+  },
+  {
+    "city": "Muzaffarnagar",
+    "detail": "Muzaffarnagar Airport (MUZ)"
+  },
+  {
+    "city": "Bhatpara",
+    "detail": "Bhatpara Airport (BHA)"
+  },
+  {
+    "city": "Panihati",
+    "detail": "Panihati Airport (PAN)"
+  },
+  {
+    "city": "Latur",
+    "detail": "Latur Airport (LAT)"
+  },
+  {
+    "city": "Dhule",
+    "detail": "Dhule Airport (DHU)"
+  },
+  {
+    "city": "Rohtak",
+    "detail": "Rohtak Airport (ROH)"
+  },
+  {
+    "city": "Korba",
+    "detail": "Korba Airport (KOR)"
+  },
+  {
+    "city": "Bhilwara",
+    "detail": "Bhilwara Airport (BHI)"
+  },
+  {
+    "city": "Brahmapur",
+    "detail": "Brahmapur Airport (BRA)"
+  },
+  {
+    "city": "Muzaffarpur",
+    "detail": "Muzaffarpur Airport (MUZ)"
+  },
+  {
+    "city": "Ahmednagar",
+    "detail": "Ahmednagar Airport (AHM)"
+  },
+  {
+    "city": "Mathura",
+    "detail": "Mathura Airport (MAT)"
+  },
+  {
+    "city": "Kollam",
+    "detail": "Kollam Airport (KOL)"
+  },
+  {
+    "city": "Avadi",
+    "detail": "Avadi Airport (AVA)"
+  },
+  {
+    "city": "Rajahmundry",
+    "detail": "Rajahmundry Airport (RAJ)"
+  },
+  {
+    "city": "Bilaspur",
+    "detail": "Bilaspur Airport (BIL)"
+  },
+  {
+    "city": "Shahjahanpur",
+    "detail": "Shahjahanpur Airport (SHA)"
+  },
+  {
+    "city": "Thrissur",
+    "detail": "Thrissur Airport (THR)"
+  },
+  {
+    "city": "Alwar",
+    "detail": "Alwar Airport (ALW)"
+  },
+  {
+    "city": "Kharagpur",
+    "detail": "Kharagpur Airport (KHA)"
+  },
+  {
+    "city": "Nizamabad",
+    "detail": "Nizamabad Airport (NIZ)"
+  },
+  {
+    "city": "Aizawl",
+    "detail": "Aizawl Airport (AIZ)"
+  },
+  {
+    "city": "Ozhukarai",
+    "detail": "Ozhukarai Airport (OZH)"
+  },
+  {
+    "city": "Dewas",
+    "detail": "Dewas Airport (DEW)"
+  }
+]

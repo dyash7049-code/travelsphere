@@ -1,0 +1,198 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-gray-50 text-gray-900 antialiased;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+  /* Prevent iOS zoom on input focus which causes blurriness */
+  input, select, textarea {
+    font-size: 16px !important;
+  }
+  @media (min-width: 768px) {
+    input, select, textarea {
+      font-size: inherit !important;
+    }
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-white/80 backdrop-blur-md border border-white/20 shadow-lg;
+  }
+
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .hide-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+/* Chatbot Rotating Text Animation */
+@keyframes chatbot-text-cycle {
+  0%, 16% { content: "Ask me anything ✨"; opacity: 1; }
+  18%, 20% { opacity: 0; }
+  20%, 36% { content: "Hey! I'm your travel buddy 🌍"; opacity: 1; }
+  38%, 40% { opacity: 0; }
+  40%, 56% { content: "Need help booking? 🎫"; opacity: 1; }
+  58%, 60% { opacity: 0; }
+  60%, 76% { content: "Find flights, hotels & more ✈️"; opacity: 1; }
+  78%, 80% { opacity: 0; }
+  80%, 96% { content: "Plan your dream trip! 🏖️"; opacity: 1; }
+  98%, 100% { opacity: 0; }
+}
+
+.chatbot-rotating-text::after {
+  content: "Ask me anything ✨";
+  animation: chatbot-text-cycle 15s infinite;
+}
+
+@keyframes float-bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-4px); }
+}
+
+.animate-float-text {
+  animation: float-bounce 2s ease-in-out infinite;
+}
+
+/* === HOME PAGE PREMIUM ANIMATIONS === */
+
+/* Hero slideshow crossfade */
+@keyframes heroFade {
+  0%, 30% { opacity: 1; }
+  33%, 97% { opacity: 0; }
+  100% { opacity: 1; }
+}
+.hero-slide-1 { animation: heroFade 18s infinite; }
+.hero-slide-2 { animation: heroFade 18s -6s infinite; }
+.hero-slide-3 { animation: heroFade 18s -12s infinite; }
+
+/* Ken Burns zoom effect */
+@keyframes kenBurns {
+  0% { transform: scale(1); }
+  100% { transform: scale(1.15); }
+}
+.animate-ken-burns {
+  animation: kenBurns 18s ease-in-out alternate infinite;
+}
+
+/* Scroll reveal fade-up */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(40px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in-up {
+  opacity: 0;
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+.delay-100 { animation-delay: 0.1s; }
+.delay-200 { animation-delay: 0.2s; }
+.delay-300 { animation-delay: 0.3s; }
+.delay-400 { animation-delay: 0.4s; }
+.delay-500 { animation-delay: 0.5s; }
+.delay-600 { animation-delay: 0.6s; }
+
+/* Floating particles */
+@keyframes floatParticle {
+  0%, 100% { transform: translateY(0) translateX(0) scale(1); opacity: 0.6; }
+  25% { transform: translateY(-30px) translateX(10px) scale(1.1); opacity: 0.8; }
+  50% { transform: translateY(-60px) translateX(-5px) scale(0.9); opacity: 0.4; }
+  75% { transform: translateY(-40px) translateX(15px) scale(1.05); opacity: 0.7; }
+}
+.animate-float-particle {
+  animation: floatParticle 8s ease-in-out infinite;
+}
+
+/* Gradient text shimmer */
+@keyframes gradientShimmer {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+.animate-gradient-text {
+  background: linear-gradient(270deg, #fff, #ffd700, #87ceeb, #fff);
+  background-size: 300% 300%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: gradientShimmer 6s ease infinite;
+}
+
+/* Pulse glow for CTA */
+@keyframes pulseGlow {
+  0%, 100% { box-shadow: 0 0 20px rgba(59,130,246,0.3); }
+  50% { box-shadow: 0 0 40px rgba(59,130,246,0.6), 0 0 60px rgba(59,130,246,0.2); }
+}
+.animate-pulse-glow {
+  animation: pulseGlow 3s ease-in-out infinite;
+}
+
+/* Stats counter bounce */
+@keyframes countBounce {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.08); }
+}
+.animate-count-bounce:hover {
+  animation: countBounce 0.5s ease;
+}
+
+/* Subtle tilt on hover for cards */
+.hover-tilt {
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+.hover-tilt:hover {
+  transform: translateY(-8px) rotateX(2deg);
+  box-shadow: 0 20px 40px rgba(0,0,0,0.12);
+}
+
+/* Parallax scroll indicator bounce */
+@keyframes scrollBounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(8px); }
+}
+.animate-scroll-indicator {
+  animation: scrollBounce 2s ease-in-out infinite;
+}
+
+/* Why-us icon spin on hover */
+.icon-hover-spin:hover .icon-inner {
+  transform: rotateY(360deg);
+  transition: transform 0.6s ease;
+}
+.icon-inner {
+  transition: transform 0.6s ease;
+}
+
+/* Offer card shine effect */
+@keyframes shine {
+  0% { left: -100%; }
+  100% { left: 200%; }
+}
+.offer-card-shine {
+  position: relative;
+  overflow: hidden;
+}
+.offer-card-shine::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
+  transition: none;
+}
+.offer-card-shine:hover::after {
+  animation: shine 0.8s ease;
+}

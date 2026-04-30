@@ -1,0 +1,1698 @@
+[
+  {
+    "city": "Delhi",
+    "detail": "Kashmiri Gate ISBT"
+  },
+  {
+    "city": "Delhi",
+    "detail": "Anand Vihar ISBT"
+  },
+  {
+    "city": "Mumbai",
+    "detail": "Borivali National Park Bus Stand"
+  },
+  {
+    "city": "Bangalore",
+    "detail": "Majestic Bus Stand"
+  },
+  {
+    "city": "Mumbai",
+    "detail": "Mumbai Main Bus Stand"
+  },
+  {
+    "city": "Mumbai",
+    "detail": "Mumbai ISBT"
+  },
+  {
+    "city": "Mumbai",
+    "detail": "Mumbai Private Bus Terminal"
+  },
+  {
+    "city": "Delhi",
+    "detail": "Delhi Main Bus Stand"
+  },
+  {
+    "city": "Delhi",
+    "detail": "Delhi ISBT"
+  },
+  {
+    "city": "Delhi",
+    "detail": "Delhi Private Bus Terminal"
+  },
+  {
+    "city": "Bangalore",
+    "detail": "Bangalore Main Bus Stand"
+  },
+  {
+    "city": "Bangalore",
+    "detail": "Bangalore ISBT"
+  },
+  {
+    "city": "Bangalore",
+    "detail": "Bangalore Private Bus Terminal"
+  },
+  {
+    "city": "Hyderabad",
+    "detail": "Hyderabad Main Bus Stand"
+  },
+  {
+    "city": "Hyderabad",
+    "detail": "Hyderabad ISBT"
+  },
+  {
+    "city": "Hyderabad",
+    "detail": "Hyderabad Private Bus Terminal"
+  },
+  {
+    "city": "Ahmedabad",
+    "detail": "Ahmedabad Main Bus Stand"
+  },
+  {
+    "city": "Ahmedabad",
+    "detail": "Ahmedabad ISBT"
+  },
+  {
+    "city": "Ahmedabad",
+    "detail": "Ahmedabad Private Bus Terminal"
+  },
+  {
+    "city": "Chennai",
+    "detail": "Chennai Main Bus Stand"
+  },
+  {
+    "city": "Chennai",
+    "detail": "Chennai ISBT"
+  },
+  {
+    "city": "Chennai",
+    "detail": "Chennai Private Bus Terminal"
+  },
+  {
+    "city": "Kolkata",
+    "detail": "Kolkata Main Bus Stand"
+  },
+  {
+    "city": "Kolkata",
+    "detail": "Kolkata ISBT"
+  },
+  {
+    "city": "Kolkata",
+    "detail": "Kolkata Private Bus Terminal"
+  },
+  {
+    "city": "Surat",
+    "detail": "Surat Main Bus Stand"
+  },
+  {
+    "city": "Surat",
+    "detail": "Surat ISBT"
+  },
+  {
+    "city": "Surat",
+    "detail": "Surat Private Bus Terminal"
+  },
+  {
+    "city": "Pune",
+    "detail": "Pune Main Bus Stand"
+  },
+  {
+    "city": "Pune",
+    "detail": "Pune ISBT"
+  },
+  {
+    "city": "Pune",
+    "detail": "Pune Private Bus Terminal"
+  },
+  {
+    "city": "Jaipur",
+    "detail": "Jaipur Main Bus Stand"
+  },
+  {
+    "city": "Jaipur",
+    "detail": "Jaipur ISBT"
+  },
+  {
+    "city": "Jaipur",
+    "detail": "Jaipur Private Bus Terminal"
+  },
+  {
+    "city": "Lucknow",
+    "detail": "Lucknow Main Bus Stand"
+  },
+  {
+    "city": "Lucknow",
+    "detail": "Lucknow ISBT"
+  },
+  {
+    "city": "Lucknow",
+    "detail": "Lucknow Private Bus Terminal"
+  },
+  {
+    "city": "Kanpur",
+    "detail": "Kanpur Main Bus Stand"
+  },
+  {
+    "city": "Kanpur",
+    "detail": "Kanpur ISBT"
+  },
+  {
+    "city": "Kanpur",
+    "detail": "Kanpur Private Bus Terminal"
+  },
+  {
+    "city": "Nagpur",
+    "detail": "Nagpur Main Bus Stand"
+  },
+  {
+    "city": "Nagpur",
+    "detail": "Nagpur ISBT"
+  },
+  {
+    "city": "Nagpur",
+    "detail": "Nagpur Private Bus Terminal"
+  },
+  {
+    "city": "Indore",
+    "detail": "Indore Main Bus Stand"
+  },
+  {
+    "city": "Indore",
+    "detail": "Indore ISBT"
+  },
+  {
+    "city": "Indore",
+    "detail": "Indore Private Bus Terminal"
+  },
+  {
+    "city": "Thane",
+    "detail": "Thane Main Bus Stand"
+  },
+  {
+    "city": "Thane",
+    "detail": "Thane ISBT"
+  },
+  {
+    "city": "Thane",
+    "detail": "Thane Private Bus Terminal"
+  },
+  {
+    "city": "Bhopal",
+    "detail": "Bhopal Main Bus Stand"
+  },
+  {
+    "city": "Bhopal",
+    "detail": "Bhopal ISBT"
+  },
+  {
+    "city": "Bhopal",
+    "detail": "Bhopal Private Bus Terminal"
+  },
+  {
+    "city": "Visakhapatnam",
+    "detail": "Visakhapatnam Main Bus Stand"
+  },
+  {
+    "city": "Visakhapatnam",
+    "detail": "Visakhapatnam ISBT"
+  },
+  {
+    "city": "Visakhapatnam",
+    "detail": "Visakhapatnam Private Bus Terminal"
+  },
+  {
+    "city": "Pimpri-Chinchwad",
+    "detail": "Pimpri-Chinchwad Main Bus Stand"
+  },
+  {
+    "city": "Pimpri-Chinchwad",
+    "detail": "Pimpri-Chinchwad ISBT"
+  },
+  {
+    "city": "Pimpri-Chinchwad",
+    "detail": "Pimpri-Chinchwad Private Bus Terminal"
+  },
+  {
+    "city": "Patna",
+    "detail": "Patna Main Bus Stand"
+  },
+  {
+    "city": "Patna",
+    "detail": "Patna ISBT"
+  },
+  {
+    "city": "Patna",
+    "detail": "Patna Private Bus Terminal"
+  },
+  {
+    "city": "Vadodara",
+    "detail": "Vadodara Main Bus Stand"
+  },
+  {
+    "city": "Vadodara",
+    "detail": "Vadodara ISBT"
+  },
+  {
+    "city": "Vadodara",
+    "detail": "Vadodara Private Bus Terminal"
+  },
+  {
+    "city": "Ghaziabad",
+    "detail": "Ghaziabad Main Bus Stand"
+  },
+  {
+    "city": "Ghaziabad",
+    "detail": "Ghaziabad ISBT"
+  },
+  {
+    "city": "Ghaziabad",
+    "detail": "Ghaziabad Private Bus Terminal"
+  },
+  {
+    "city": "Ludhiana",
+    "detail": "Ludhiana Main Bus Stand"
+  },
+  {
+    "city": "Ludhiana",
+    "detail": "Ludhiana ISBT"
+  },
+  {
+    "city": "Ludhiana",
+    "detail": "Ludhiana Private Bus Terminal"
+  },
+  {
+    "city": "Agra",
+    "detail": "Agra Main Bus Stand"
+  },
+  {
+    "city": "Agra",
+    "detail": "Agra ISBT"
+  },
+  {
+    "city": "Agra",
+    "detail": "Agra Private Bus Terminal"
+  },
+  {
+    "city": "Nashik",
+    "detail": "Nashik Main Bus Stand"
+  },
+  {
+    "city": "Nashik",
+    "detail": "Nashik ISBT"
+  },
+  {
+    "city": "Nashik",
+    "detail": "Nashik Private Bus Terminal"
+  },
+  {
+    "city": "Faridabad",
+    "detail": "Faridabad Main Bus Stand"
+  },
+  {
+    "city": "Faridabad",
+    "detail": "Faridabad ISBT"
+  },
+  {
+    "city": "Faridabad",
+    "detail": "Faridabad Private Bus Terminal"
+  },
+  {
+    "city": "Meerut",
+    "detail": "Meerut Main Bus Stand"
+  },
+  {
+    "city": "Meerut",
+    "detail": "Meerut ISBT"
+  },
+  {
+    "city": "Meerut",
+    "detail": "Meerut Private Bus Terminal"
+  },
+  {
+    "city": "Rajkot",
+    "detail": "Rajkot Main Bus Stand"
+  },
+  {
+    "city": "Rajkot",
+    "detail": "Rajkot ISBT"
+  },
+  {
+    "city": "Rajkot",
+    "detail": "Rajkot Private Bus Terminal"
+  },
+  {
+    "city": "Kalyan-Dombivli",
+    "detail": "Kalyan-Dombivli Main Bus Stand"
+  },
+  {
+    "city": "Kalyan-Dombivli",
+    "detail": "Kalyan-Dombivli ISBT"
+  },
+  {
+    "city": "Kalyan-Dombivli",
+    "detail": "Kalyan-Dombivli Private Bus Terminal"
+  },
+  {
+    "city": "Vasai-Virar",
+    "detail": "Vasai-Virar Main Bus Stand"
+  },
+  {
+    "city": "Vasai-Virar",
+    "detail": "Vasai-Virar ISBT"
+  },
+  {
+    "city": "Vasai-Virar",
+    "detail": "Vasai-Virar Private Bus Terminal"
+  },
+  {
+    "city": "Varanasi",
+    "detail": "Varanasi Main Bus Stand"
+  },
+  {
+    "city": "Varanasi",
+    "detail": "Varanasi ISBT"
+  },
+  {
+    "city": "Varanasi",
+    "detail": "Varanasi Private Bus Terminal"
+  },
+  {
+    "city": "Srinagar",
+    "detail": "Srinagar Main Bus Stand"
+  },
+  {
+    "city": "Srinagar",
+    "detail": "Srinagar ISBT"
+  },
+  {
+    "city": "Srinagar",
+    "detail": "Srinagar Private Bus Terminal"
+  },
+  {
+    "city": "Aurangabad",
+    "detail": "Aurangabad Main Bus Stand"
+  },
+  {
+    "city": "Aurangabad",
+    "detail": "Aurangabad ISBT"
+  },
+  {
+    "city": "Aurangabad",
+    "detail": "Aurangabad Private Bus Terminal"
+  },
+  {
+    "city": "Dhanbad",
+    "detail": "Dhanbad Main Bus Stand"
+  },
+  {
+    "city": "Dhanbad",
+    "detail": "Dhanbad ISBT"
+  },
+  {
+    "city": "Dhanbad",
+    "detail": "Dhanbad Private Bus Terminal"
+  },
+  {
+    "city": "Amritsar",
+    "detail": "Amritsar Main Bus Stand"
+  },
+  {
+    "city": "Amritsar",
+    "detail": "Amritsar ISBT"
+  },
+  {
+    "city": "Amritsar",
+    "detail": "Amritsar Private Bus Terminal"
+  },
+  {
+    "city": "Navi Mumbai",
+    "detail": "Navi Mumbai Main Bus Stand"
+  },
+  {
+    "city": "Navi Mumbai",
+    "detail": "Navi Mumbai ISBT"
+  },
+  {
+    "city": "Navi Mumbai",
+    "detail": "Navi Mumbai Private Bus Terminal"
+  },
+  {
+    "city": "Allahabad",
+    "detail": "Allahabad Main Bus Stand"
+  },
+  {
+    "city": "Allahabad",
+    "detail": "Allahabad ISBT"
+  },
+  {
+    "city": "Allahabad",
+    "detail": "Allahabad Private Bus Terminal"
+  },
+  {
+    "city": "Ranchi",
+    "detail": "Ranchi Main Bus Stand"
+  },
+  {
+    "city": "Ranchi",
+    "detail": "Ranchi ISBT"
+  },
+  {
+    "city": "Ranchi",
+    "detail": "Ranchi Private Bus Terminal"
+  },
+  {
+    "city": "Howrah",
+    "detail": "Howrah Main Bus Stand"
+  },
+  {
+    "city": "Howrah",
+    "detail": "Howrah ISBT"
+  },
+  {
+    "city": "Howrah",
+    "detail": "Howrah Private Bus Terminal"
+  },
+  {
+    "city": "Coimbatore",
+    "detail": "Coimbatore Main Bus Stand"
+  },
+  {
+    "city": "Coimbatore",
+    "detail": "Coimbatore ISBT"
+  },
+  {
+    "city": "Coimbatore",
+    "detail": "Coimbatore Private Bus Terminal"
+  },
+  {
+    "city": "Jabalpur",
+    "detail": "Jabalpur Main Bus Stand"
+  },
+  {
+    "city": "Jabalpur",
+    "detail": "Jabalpur ISBT"
+  },
+  {
+    "city": "Jabalpur",
+    "detail": "Jabalpur Private Bus Terminal"
+  },
+  {
+    "city": "Gwalior",
+    "detail": "Gwalior Main Bus Stand"
+  },
+  {
+    "city": "Gwalior",
+    "detail": "Gwalior ISBT"
+  },
+  {
+    "city": "Gwalior",
+    "detail": "Gwalior Private Bus Terminal"
+  },
+  {
+    "city": "Vijayawada",
+    "detail": "Vijayawada Main Bus Stand"
+  },
+  {
+    "city": "Vijayawada",
+    "detail": "Vijayawada ISBT"
+  },
+  {
+    "city": "Vijayawada",
+    "detail": "Vijayawada Private Bus Terminal"
+  },
+  {
+    "city": "Jodhpur",
+    "detail": "Jodhpur Main Bus Stand"
+  },
+  {
+    "city": "Jodhpur",
+    "detail": "Jodhpur ISBT"
+  },
+  {
+    "city": "Jodhpur",
+    "detail": "Jodhpur Private Bus Terminal"
+  },
+  {
+    "city": "Madurai",
+    "detail": "Madurai Main Bus Stand"
+  },
+  {
+    "city": "Madurai",
+    "detail": "Madurai ISBT"
+  },
+  {
+    "city": "Madurai",
+    "detail": "Madurai Private Bus Terminal"
+  },
+  {
+    "city": "Raipur",
+    "detail": "Raipur Main Bus Stand"
+  },
+  {
+    "city": "Raipur",
+    "detail": "Raipur ISBT"
+  },
+  {
+    "city": "Raipur",
+    "detail": "Raipur Private Bus Terminal"
+  },
+  {
+    "city": "Kota",
+    "detail": "Kota Main Bus Stand"
+  },
+  {
+    "city": "Kota",
+    "detail": "Kota ISBT"
+  },
+  {
+    "city": "Kota",
+    "detail": "Kota Private Bus Terminal"
+  },
+  {
+    "city": "Chandigarh",
+    "detail": "Chandigarh Main Bus Stand"
+  },
+  {
+    "city": "Chandigarh",
+    "detail": "Chandigarh ISBT"
+  },
+  {
+    "city": "Chandigarh",
+    "detail": "Chandigarh Private Bus Terminal"
+  },
+  {
+    "city": "Guwahati",
+    "detail": "Guwahati Main Bus Stand"
+  },
+  {
+    "city": "Guwahati",
+    "detail": "Guwahati ISBT"
+  },
+  {
+    "city": "Guwahati",
+    "detail": "Guwahati Private Bus Terminal"
+  },
+  {
+    "city": "Solapur",
+    "detail": "Solapur Main Bus Stand"
+  },
+  {
+    "city": "Solapur",
+    "detail": "Solapur ISBT"
+  },
+  {
+    "city": "Solapur",
+    "detail": "Solapur Private Bus Terminal"
+  },
+  {
+    "city": "Hubli-Dharwad",
+    "detail": "Hubli-Dharwad Main Bus Stand"
+  },
+  {
+    "city": "Hubli-Dharwad",
+    "detail": "Hubli-Dharwad ISBT"
+  },
+  {
+    "city": "Hubli-Dharwad",
+    "detail": "Hubli-Dharwad Private Bus Terminal"
+  },
+  {
+    "city": "Tiruchirappalli",
+    "detail": "Tiruchirappalli Main Bus Stand"
+  },
+  {
+    "city": "Tiruchirappalli",
+    "detail": "Tiruchirappalli ISBT"
+  },
+  {
+    "city": "Tiruchirappalli",
+    "detail": "Tiruchirappalli Private Bus Terminal"
+  },
+  {
+    "city": "Bareilly",
+    "detail": "Bareilly Main Bus Stand"
+  },
+  {
+    "city": "Bareilly",
+    "detail": "Bareilly ISBT"
+  },
+  {
+    "city": "Bareilly",
+    "detail": "Bareilly Private Bus Terminal"
+  },
+  {
+    "city": "Moradabad",
+    "detail": "Moradabad Main Bus Stand"
+  },
+  {
+    "city": "Moradabad",
+    "detail": "Moradabad ISBT"
+  },
+  {
+    "city": "Moradabad",
+    "detail": "Moradabad Private Bus Terminal"
+  },
+  {
+    "city": "Mysore",
+    "detail": "Mysore Main Bus Stand"
+  },
+  {
+    "city": "Mysore",
+    "detail": "Mysore ISBT"
+  },
+  {
+    "city": "Mysore",
+    "detail": "Mysore Private Bus Terminal"
+  },
+  {
+    "city": "Tiruppur",
+    "detail": "Tiruppur Main Bus Stand"
+  },
+  {
+    "city": "Tiruppur",
+    "detail": "Tiruppur ISBT"
+  },
+  {
+    "city": "Tiruppur",
+    "detail": "Tiruppur Private Bus Terminal"
+  },
+  {
+    "city": "Gurgaon",
+    "detail": "Gurgaon Main Bus Stand"
+  },
+  {
+    "city": "Gurgaon",
+    "detail": "Gurgaon ISBT"
+  },
+  {
+    "city": "Gurgaon",
+    "detail": "Gurgaon Private Bus Terminal"
+  },
+  {
+    "city": "Aligarh",
+    "detail": "Aligarh Main Bus Stand"
+  },
+  {
+    "city": "Aligarh",
+    "detail": "Aligarh ISBT"
+  },
+  {
+    "city": "Aligarh",
+    "detail": "Aligarh Private Bus Terminal"
+  },
+  {
+    "city": "Jalandhar",
+    "detail": "Jalandhar Main Bus Stand"
+  },
+  {
+    "city": "Jalandhar",
+    "detail": "Jalandhar ISBT"
+  },
+  {
+    "city": "Jalandhar",
+    "detail": "Jalandhar Private Bus Terminal"
+  },
+  {
+    "city": "Bhubaneswar",
+    "detail": "Bhubaneswar Main Bus Stand"
+  },
+  {
+    "city": "Bhubaneswar",
+    "detail": "Bhubaneswar ISBT"
+  },
+  {
+    "city": "Bhubaneswar",
+    "detail": "Bhubaneswar Private Bus Terminal"
+  },
+  {
+    "city": "Salem",
+    "detail": "Salem Main Bus Stand"
+  },
+  {
+    "city": "Salem",
+    "detail": "Salem ISBT"
+  },
+  {
+    "city": "Salem",
+    "detail": "Salem Private Bus Terminal"
+  },
+  {
+    "city": "Mira-Bhayandar",
+    "detail": "Mira-Bhayandar Main Bus Stand"
+  },
+  {
+    "city": "Mira-Bhayandar",
+    "detail": "Mira-Bhayandar ISBT"
+  },
+  {
+    "city": "Mira-Bhayandar",
+    "detail": "Mira-Bhayandar Private Bus Terminal"
+  },
+  {
+    "city": "Warangal",
+    "detail": "Warangal Main Bus Stand"
+  },
+  {
+    "city": "Warangal",
+    "detail": "Warangal ISBT"
+  },
+  {
+    "city": "Warangal",
+    "detail": "Warangal Private Bus Terminal"
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "detail": "Thiruvananthapuram Main Bus Stand"
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "detail": "Thiruvananthapuram ISBT"
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "detail": "Thiruvananthapuram Private Bus Terminal"
+  },
+  {
+    "city": "Guntur",
+    "detail": "Guntur Main Bus Stand"
+  },
+  {
+    "city": "Guntur",
+    "detail": "Guntur ISBT"
+  },
+  {
+    "city": "Guntur",
+    "detail": "Guntur Private Bus Terminal"
+  },
+  {
+    "city": "Bhiwandi",
+    "detail": "Bhiwandi Main Bus Stand"
+  },
+  {
+    "city": "Bhiwandi",
+    "detail": "Bhiwandi ISBT"
+  },
+  {
+    "city": "Bhiwandi",
+    "detail": "Bhiwandi Private Bus Terminal"
+  },
+  {
+    "city": "Saharanpur",
+    "detail": "Saharanpur Main Bus Stand"
+  },
+  {
+    "city": "Saharanpur",
+    "detail": "Saharanpur ISBT"
+  },
+  {
+    "city": "Saharanpur",
+    "detail": "Saharanpur Private Bus Terminal"
+  },
+  {
+    "city": "Gorakhpur",
+    "detail": "Gorakhpur Main Bus Stand"
+  },
+  {
+    "city": "Gorakhpur",
+    "detail": "Gorakhpur ISBT"
+  },
+  {
+    "city": "Gorakhpur",
+    "detail": "Gorakhpur Private Bus Terminal"
+  },
+  {
+    "city": "Bikaner",
+    "detail": "Bikaner Main Bus Stand"
+  },
+  {
+    "city": "Bikaner",
+    "detail": "Bikaner ISBT"
+  },
+  {
+    "city": "Bikaner",
+    "detail": "Bikaner Private Bus Terminal"
+  },
+  {
+    "city": "Amravati",
+    "detail": "Amravati Main Bus Stand"
+  },
+  {
+    "city": "Amravati",
+    "detail": "Amravati ISBT"
+  },
+  {
+    "city": "Amravati",
+    "detail": "Amravati Private Bus Terminal"
+  },
+  {
+    "city": "Noida",
+    "detail": "Noida Main Bus Stand"
+  },
+  {
+    "city": "Noida",
+    "detail": "Noida ISBT"
+  },
+  {
+    "city": "Noida",
+    "detail": "Noida Private Bus Terminal"
+  },
+  {
+    "city": "Jamshedpur",
+    "detail": "Jamshedpur Main Bus Stand"
+  },
+  {
+    "city": "Jamshedpur",
+    "detail": "Jamshedpur ISBT"
+  },
+  {
+    "city": "Jamshedpur",
+    "detail": "Jamshedpur Private Bus Terminal"
+  },
+  {
+    "city": "Bhilai",
+    "detail": "Bhilai Main Bus Stand"
+  },
+  {
+    "city": "Bhilai",
+    "detail": "Bhilai ISBT"
+  },
+  {
+    "city": "Bhilai",
+    "detail": "Bhilai Private Bus Terminal"
+  },
+  {
+    "city": "Cuttack",
+    "detail": "Cuttack Main Bus Stand"
+  },
+  {
+    "city": "Cuttack",
+    "detail": "Cuttack ISBT"
+  },
+  {
+    "city": "Cuttack",
+    "detail": "Cuttack Private Bus Terminal"
+  },
+  {
+    "city": "Firozabad",
+    "detail": "Firozabad Main Bus Stand"
+  },
+  {
+    "city": "Firozabad",
+    "detail": "Firozabad ISBT"
+  },
+  {
+    "city": "Firozabad",
+    "detail": "Firozabad Private Bus Terminal"
+  },
+  {
+    "city": "Kochi",
+    "detail": "Kochi Main Bus Stand"
+  },
+  {
+    "city": "Kochi",
+    "detail": "Kochi ISBT"
+  },
+  {
+    "city": "Kochi",
+    "detail": "Kochi Private Bus Terminal"
+  },
+  {
+    "city": "Nellore",
+    "detail": "Nellore Main Bus Stand"
+  },
+  {
+    "city": "Nellore",
+    "detail": "Nellore ISBT"
+  },
+  {
+    "city": "Nellore",
+    "detail": "Nellore Private Bus Terminal"
+  },
+  {
+    "city": "Bhavnagar",
+    "detail": "Bhavnagar Main Bus Stand"
+  },
+  {
+    "city": "Bhavnagar",
+    "detail": "Bhavnagar ISBT"
+  },
+  {
+    "city": "Bhavnagar",
+    "detail": "Bhavnagar Private Bus Terminal"
+  },
+  {
+    "city": "Dehradun",
+    "detail": "Dehradun Main Bus Stand"
+  },
+  {
+    "city": "Dehradun",
+    "detail": "Dehradun ISBT"
+  },
+  {
+    "city": "Dehradun",
+    "detail": "Dehradun Private Bus Terminal"
+  },
+  {
+    "city": "Durgapur",
+    "detail": "Durgapur Main Bus Stand"
+  },
+  {
+    "city": "Durgapur",
+    "detail": "Durgapur ISBT"
+  },
+  {
+    "city": "Durgapur",
+    "detail": "Durgapur Private Bus Terminal"
+  },
+  {
+    "city": "Asansol",
+    "detail": "Asansol Main Bus Stand"
+  },
+  {
+    "city": "Asansol",
+    "detail": "Asansol ISBT"
+  },
+  {
+    "city": "Asansol",
+    "detail": "Asansol Private Bus Terminal"
+  },
+  {
+    "city": "Rourkela",
+    "detail": "Rourkela Main Bus Stand"
+  },
+  {
+    "city": "Rourkela",
+    "detail": "Rourkela ISBT"
+  },
+  {
+    "city": "Rourkela",
+    "detail": "Rourkela Private Bus Terminal"
+  },
+  {
+    "city": "Nanded",
+    "detail": "Nanded Main Bus Stand"
+  },
+  {
+    "city": "Nanded",
+    "detail": "Nanded ISBT"
+  },
+  {
+    "city": "Nanded",
+    "detail": "Nanded Private Bus Terminal"
+  },
+  {
+    "city": "Kolhapur",
+    "detail": "Kolhapur Main Bus Stand"
+  },
+  {
+    "city": "Kolhapur",
+    "detail": "Kolhapur ISBT"
+  },
+  {
+    "city": "Kolhapur",
+    "detail": "Kolhapur Private Bus Terminal"
+  },
+  {
+    "city": "Ajmer",
+    "detail": "Ajmer Main Bus Stand"
+  },
+  {
+    "city": "Ajmer",
+    "detail": "Ajmer ISBT"
+  },
+  {
+    "city": "Ajmer",
+    "detail": "Ajmer Private Bus Terminal"
+  },
+  {
+    "city": "Akola",
+    "detail": "Akola Main Bus Stand"
+  },
+  {
+    "city": "Akola",
+    "detail": "Akola ISBT"
+  },
+  {
+    "city": "Akola",
+    "detail": "Akola Private Bus Terminal"
+  },
+  {
+    "city": "Gulbarga",
+    "detail": "Gulbarga Main Bus Stand"
+  },
+  {
+    "city": "Gulbarga",
+    "detail": "Gulbarga ISBT"
+  },
+  {
+    "city": "Gulbarga",
+    "detail": "Gulbarga Private Bus Terminal"
+  },
+  {
+    "city": "Jamnagar",
+    "detail": "Jamnagar Main Bus Stand"
+  },
+  {
+    "city": "Jamnagar",
+    "detail": "Jamnagar ISBT"
+  },
+  {
+    "city": "Jamnagar",
+    "detail": "Jamnagar Private Bus Terminal"
+  },
+  {
+    "city": "Ujjain",
+    "detail": "Ujjain Main Bus Stand"
+  },
+  {
+    "city": "Ujjain",
+    "detail": "Ujjain ISBT"
+  },
+  {
+    "city": "Ujjain",
+    "detail": "Ujjain Private Bus Terminal"
+  },
+  {
+    "city": "Loni",
+    "detail": "Loni Main Bus Stand"
+  },
+  {
+    "city": "Loni",
+    "detail": "Loni ISBT"
+  },
+  {
+    "city": "Loni",
+    "detail": "Loni Private Bus Terminal"
+  },
+  {
+    "city": "Siliguri",
+    "detail": "Siliguri Main Bus Stand"
+  },
+  {
+    "city": "Siliguri",
+    "detail": "Siliguri ISBT"
+  },
+  {
+    "city": "Siliguri",
+    "detail": "Siliguri Private Bus Terminal"
+  },
+  {
+    "city": "Jhansi",
+    "detail": "Jhansi Main Bus Stand"
+  },
+  {
+    "city": "Jhansi",
+    "detail": "Jhansi ISBT"
+  },
+  {
+    "city": "Jhansi",
+    "detail": "Jhansi Private Bus Terminal"
+  },
+  {
+    "city": "Ulhasnagar",
+    "detail": "Ulhasnagar Main Bus Stand"
+  },
+  {
+    "city": "Ulhasnagar",
+    "detail": "Ulhasnagar ISBT"
+  },
+  {
+    "city": "Ulhasnagar",
+    "detail": "Ulhasnagar Private Bus Terminal"
+  },
+  {
+    "city": "Jammu",
+    "detail": "Jammu Main Bus Stand"
+  },
+  {
+    "city": "Jammu",
+    "detail": "Jammu ISBT"
+  },
+  {
+    "city": "Jammu",
+    "detail": "Jammu Private Bus Terminal"
+  },
+  {
+    "city": "Sangli-Miraj & Kupwad",
+    "detail": "Sangli-Miraj & Kupwad Main Bus Stand"
+  },
+  {
+    "city": "Sangli-Miraj & Kupwad",
+    "detail": "Sangli-Miraj & Kupwad ISBT"
+  },
+  {
+    "city": "Sangli-Miraj & Kupwad",
+    "detail": "Sangli-Miraj & Kupwad Private Bus Terminal"
+  },
+  {
+    "city": "Mangalore",
+    "detail": "Mangalore Main Bus Stand"
+  },
+  {
+    "city": "Mangalore",
+    "detail": "Mangalore ISBT"
+  },
+  {
+    "city": "Mangalore",
+    "detail": "Mangalore Private Bus Terminal"
+  },
+  {
+    "city": "Erode",
+    "detail": "Erode Main Bus Stand"
+  },
+  {
+    "city": "Erode",
+    "detail": "Erode ISBT"
+  },
+  {
+    "city": "Erode",
+    "detail": "Erode Private Bus Terminal"
+  },
+  {
+    "city": "Belgaum",
+    "detail": "Belgaum Main Bus Stand"
+  },
+  {
+    "city": "Belgaum",
+    "detail": "Belgaum ISBT"
+  },
+  {
+    "city": "Belgaum",
+    "detail": "Belgaum Private Bus Terminal"
+  },
+  {
+    "city": "Kurnool",
+    "detail": "Kurnool Main Bus Stand"
+  },
+  {
+    "city": "Kurnool",
+    "detail": "Kurnool ISBT"
+  },
+  {
+    "city": "Kurnool",
+    "detail": "Kurnool Private Bus Terminal"
+  },
+  {
+    "city": "Ambattur",
+    "detail": "Ambattur Main Bus Stand"
+  },
+  {
+    "city": "Ambattur",
+    "detail": "Ambattur ISBT"
+  },
+  {
+    "city": "Ambattur",
+    "detail": "Ambattur Private Bus Terminal"
+  },
+  {
+    "city": "Rajahmundry",
+    "detail": "Rajahmundry Main Bus Stand"
+  },
+  {
+    "city": "Rajahmundry",
+    "detail": "Rajahmundry ISBT"
+  },
+  {
+    "city": "Rajahmundry",
+    "detail": "Rajahmundry Private Bus Terminal"
+  },
+  {
+    "city": "Tirunelveli",
+    "detail": "Tirunelveli Main Bus Stand"
+  },
+  {
+    "city": "Tirunelveli",
+    "detail": "Tirunelveli ISBT"
+  },
+  {
+    "city": "Tirunelveli",
+    "detail": "Tirunelveli Private Bus Terminal"
+  },
+  {
+    "city": "Malegaon",
+    "detail": "Malegaon Main Bus Stand"
+  },
+  {
+    "city": "Malegaon",
+    "detail": "Malegaon ISBT"
+  },
+  {
+    "city": "Malegaon",
+    "detail": "Malegaon Private Bus Terminal"
+  },
+  {
+    "city": "Gaya",
+    "detail": "Gaya Main Bus Stand"
+  },
+  {
+    "city": "Gaya",
+    "detail": "Gaya ISBT"
+  },
+  {
+    "city": "Gaya",
+    "detail": "Gaya Private Bus Terminal"
+  },
+  {
+    "city": "Udaipur",
+    "detail": "Udaipur Main Bus Stand"
+  },
+  {
+    "city": "Udaipur",
+    "detail": "Udaipur ISBT"
+  },
+  {
+    "city": "Udaipur",
+    "detail": "Udaipur Private Bus Terminal"
+  },
+  {
+    "city": "Kakinada",
+    "detail": "Kakinada Main Bus Stand"
+  },
+  {
+    "city": "Kakinada",
+    "detail": "Kakinada ISBT"
+  },
+  {
+    "city": "Kakinada",
+    "detail": "Kakinada Private Bus Terminal"
+  },
+  {
+    "city": "Davanagere",
+    "detail": "Davanagere Main Bus Stand"
+  },
+  {
+    "city": "Davanagere",
+    "detail": "Davanagere ISBT"
+  },
+  {
+    "city": "Davanagere",
+    "detail": "Davanagere Private Bus Terminal"
+  },
+  {
+    "city": "Kozhikode",
+    "detail": "Kozhikode Main Bus Stand"
+  },
+  {
+    "city": "Kozhikode",
+    "detail": "Kozhikode ISBT"
+  },
+  {
+    "city": "Kozhikode",
+    "detail": "Kozhikode Private Bus Terminal"
+  },
+  {
+    "city": "Maheshtala",
+    "detail": "Maheshtala Main Bus Stand"
+  },
+  {
+    "city": "Maheshtala",
+    "detail": "Maheshtala ISBT"
+  },
+  {
+    "city": "Maheshtala",
+    "detail": "Maheshtala Private Bus Terminal"
+  },
+  {
+    "city": "Rajpur Sonarpur",
+    "detail": "Rajpur Sonarpur Main Bus Stand"
+  },
+  {
+    "city": "Rajpur Sonarpur",
+    "detail": "Rajpur Sonarpur ISBT"
+  },
+  {
+    "city": "Rajpur Sonarpur",
+    "detail": "Rajpur Sonarpur Private Bus Terminal"
+  },
+  {
+    "city": "Bokaro",
+    "detail": "Bokaro Main Bus Stand"
+  },
+  {
+    "city": "Bokaro",
+    "detail": "Bokaro ISBT"
+  },
+  {
+    "city": "Bokaro",
+    "detail": "Bokaro Private Bus Terminal"
+  },
+  {
+    "city": "South Dumdum",
+    "detail": "South Dumdum Main Bus Stand"
+  },
+  {
+    "city": "South Dumdum",
+    "detail": "South Dumdum ISBT"
+  },
+  {
+    "city": "South Dumdum",
+    "detail": "South Dumdum Private Bus Terminal"
+  },
+  {
+    "city": "Bellary",
+    "detail": "Bellary Main Bus Stand"
+  },
+  {
+    "city": "Bellary",
+    "detail": "Bellary ISBT"
+  },
+  {
+    "city": "Bellary",
+    "detail": "Bellary Private Bus Terminal"
+  },
+  {
+    "city": "Patiala",
+    "detail": "Patiala Main Bus Stand"
+  },
+  {
+    "city": "Patiala",
+    "detail": "Patiala ISBT"
+  },
+  {
+    "city": "Patiala",
+    "detail": "Patiala Private Bus Terminal"
+  },
+  {
+    "city": "Gopalpur",
+    "detail": "Gopalpur Main Bus Stand"
+  },
+  {
+    "city": "Gopalpur",
+    "detail": "Gopalpur ISBT"
+  },
+  {
+    "city": "Gopalpur",
+    "detail": "Gopalpur Private Bus Terminal"
+  },
+  {
+    "city": "Agartala",
+    "detail": "Agartala Main Bus Stand"
+  },
+  {
+    "city": "Agartala",
+    "detail": "Agartala ISBT"
+  },
+  {
+    "city": "Agartala",
+    "detail": "Agartala Private Bus Terminal"
+  },
+  {
+    "city": "Bhagalpur",
+    "detail": "Bhagalpur Main Bus Stand"
+  },
+  {
+    "city": "Bhagalpur",
+    "detail": "Bhagalpur ISBT"
+  },
+  {
+    "city": "Bhagalpur",
+    "detail": "Bhagalpur Private Bus Terminal"
+  },
+  {
+    "city": "Muzaffarnagar",
+    "detail": "Muzaffarnagar Main Bus Stand"
+  },
+  {
+    "city": "Muzaffarnagar",
+    "detail": "Muzaffarnagar ISBT"
+  },
+  {
+    "city": "Muzaffarnagar",
+    "detail": "Muzaffarnagar Private Bus Terminal"
+  },
+  {
+    "city": "Bhatpara",
+    "detail": "Bhatpara Main Bus Stand"
+  },
+  {
+    "city": "Bhatpara",
+    "detail": "Bhatpara ISBT"
+  },
+  {
+    "city": "Bhatpara",
+    "detail": "Bhatpara Private Bus Terminal"
+  },
+  {
+    "city": "Panihati",
+    "detail": "Panihati Main Bus Stand"
+  },
+  {
+    "city": "Panihati",
+    "detail": "Panihati ISBT"
+  },
+  {
+    "city": "Panihati",
+    "detail": "Panihati Private Bus Terminal"
+  },
+  {
+    "city": "Latur",
+    "detail": "Latur Main Bus Stand"
+  },
+  {
+    "city": "Latur",
+    "detail": "Latur ISBT"
+  },
+  {
+    "city": "Latur",
+    "detail": "Latur Private Bus Terminal"
+  },
+  {
+    "city": "Dhule",
+    "detail": "Dhule Main Bus Stand"
+  },
+  {
+    "city": "Dhule",
+    "detail": "Dhule ISBT"
+  },
+  {
+    "city": "Dhule",
+    "detail": "Dhule Private Bus Terminal"
+  },
+  {
+    "city": "Rohtak",
+    "detail": "Rohtak Main Bus Stand"
+  },
+  {
+    "city": "Rohtak",
+    "detail": "Rohtak ISBT"
+  },
+  {
+    "city": "Rohtak",
+    "detail": "Rohtak Private Bus Terminal"
+  },
+  {
+    "city": "Korba",
+    "detail": "Korba Main Bus Stand"
+  },
+  {
+    "city": "Korba",
+    "detail": "Korba ISBT"
+  },
+  {
+    "city": "Korba",
+    "detail": "Korba Private Bus Terminal"
+  },
+  {
+    "city": "Bhilwara",
+    "detail": "Bhilwara Main Bus Stand"
+  },
+  {
+    "city": "Bhilwara",
+    "detail": "Bhilwara ISBT"
+  },
+  {
+    "city": "Bhilwara",
+    "detail": "Bhilwara Private Bus Terminal"
+  },
+  {
+    "city": "Brahmapur",
+    "detail": "Brahmapur Main Bus Stand"
+  },
+  {
+    "city": "Brahmapur",
+    "detail": "Brahmapur ISBT"
+  },
+  {
+    "city": "Brahmapur",
+    "detail": "Brahmapur Private Bus Terminal"
+  },
+  {
+    "city": "Muzaffarpur",
+    "detail": "Muzaffarpur Main Bus Stand"
+  },
+  {
+    "city": "Muzaffarpur",
+    "detail": "Muzaffarpur ISBT"
+  },
+  {
+    "city": "Muzaffarpur",
+    "detail": "Muzaffarpur Private Bus Terminal"
+  },
+  {
+    "city": "Ahmednagar",
+    "detail": "Ahmednagar Main Bus Stand"
+  },
+  {
+    "city": "Ahmednagar",
+    "detail": "Ahmednagar ISBT"
+  },
+  {
+    "city": "Ahmednagar",
+    "detail": "Ahmednagar Private Bus Terminal"
+  },
+  {
+    "city": "Mathura",
+    "detail": "Mathura Main Bus Stand"
+  },
+  {
+    "city": "Mathura",
+    "detail": "Mathura ISBT"
+  },
+  {
+    "city": "Mathura",
+    "detail": "Mathura Private Bus Terminal"
+  },
+  {
+    "city": "Kollam",
+    "detail": "Kollam Main Bus Stand"
+  },
+  {
+    "city": "Kollam",
+    "detail": "Kollam ISBT"
+  },
+  {
+    "city": "Kollam",
+    "detail": "Kollam Private Bus Terminal"
+  },
+  {
+    "city": "Avadi",
+    "detail": "Avadi Main Bus Stand"
+  },
+  {
+    "city": "Avadi",
+    "detail": "Avadi ISBT"
+  },
+  {
+    "city": "Avadi",
+    "detail": "Avadi Private Bus Terminal"
+  },
+  {
+    "city": "Rajahmundry",
+    "detail": "Rajahmundry Main Bus Stand"
+  },
+  {
+    "city": "Rajahmundry",
+    "detail": "Rajahmundry ISBT"
+  },
+  {
+    "city": "Rajahmundry",
+    "detail": "Rajahmundry Private Bus Terminal"
+  },
+  {
+    "city": "Bilaspur",
+    "detail": "Bilaspur Main Bus Stand"
+  },
+  {
+    "city": "Bilaspur",
+    "detail": "Bilaspur ISBT"
+  },
+  {
+    "city": "Bilaspur",
+    "detail": "Bilaspur Private Bus Terminal"
+  },
+  {
+    "city": "Shahjahanpur",
+    "detail": "Shahjahanpur Main Bus Stand"
+  },
+  {
+    "city": "Shahjahanpur",
+    "detail": "Shahjahanpur ISBT"
+  },
+  {
+    "city": "Shahjahanpur",
+    "detail": "Shahjahanpur Private Bus Terminal"
+  },
+  {
+    "city": "Thrissur",
+    "detail": "Thrissur Main Bus Stand"
+  },
+  {
+    "city": "Thrissur",
+    "detail": "Thrissur ISBT"
+  },
+  {
+    "city": "Thrissur",
+    "detail": "Thrissur Private Bus Terminal"
+  },
+  {
+    "city": "Alwar",
+    "detail": "Alwar Main Bus Stand"
+  },
+  {
+    "city": "Alwar",
+    "detail": "Alwar ISBT"
+  },
+  {
+    "city": "Alwar",
+    "detail": "Alwar Private Bus Terminal"
+  },
+  {
+    "city": "Kharagpur",
+    "detail": "Kharagpur Main Bus Stand"
+  },
+  {
+    "city": "Kharagpur",
+    "detail": "Kharagpur ISBT"
+  },
+  {
+    "city": "Kharagpur",
+    "detail": "Kharagpur Private Bus Terminal"
+  },
+  {
+    "city": "Nizamabad",
+    "detail": "Nizamabad Main Bus Stand"
+  },
+  {
+    "city": "Nizamabad",
+    "detail": "Nizamabad ISBT"
+  },
+  {
+    "city": "Nizamabad",
+    "detail": "Nizamabad Private Bus Terminal"
+  },
+  {
+    "city": "Aizawl",
+    "detail": "Aizawl Main Bus Stand"
+  },
+  {
+    "city": "Aizawl",
+    "detail": "Aizawl ISBT"
+  },
+  {
+    "city": "Aizawl",
+    "detail": "Aizawl Private Bus Terminal"
+  },
+  {
+    "city": "Ozhukarai",
+    "detail": "Ozhukarai Main Bus Stand"
+  },
+  {
+    "city": "Ozhukarai",
+    "detail": "Ozhukarai ISBT"
+  },
+  {
+    "city": "Ozhukarai",
+    "detail": "Ozhukarai Private Bus Terminal"
+  },
+  {
+    "city": "Dewas",
+    "detail": "Dewas Main Bus Stand"
+  },
+  {
+    "city": "Dewas",
+    "detail": "Dewas ISBT"
+  },
+  {
+    "city": "Dewas",
+    "detail": "Dewas Private Bus Terminal"
+  }
+]

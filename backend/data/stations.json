@@ -1,0 +1,1702 @@
+[
+  {
+    "city": "New Delhi",
+    "detail": "New Delhi Railway Station (NDLS)"
+  },
+  {
+    "city": "Mumbai",
+    "detail": "Chhatrapati Shivaji Maharaj Terminus (CSMT)"
+  },
+  {
+    "city": "Howrah",
+    "detail": "Howrah Junction (HWH)"
+  },
+  {
+    "city": "Chennai",
+    "detail": "Chennai Central (MAS)"
+  },
+  {
+    "city": "Bangalore",
+    "detail": "Krantivira Sangolli Rayanna (SBC)"
+  },
+  {
+    "city": "Mumbai",
+    "detail": "Mumbai Junction (MUM)"
+  },
+  {
+    "city": "Mumbai",
+    "detail": "Mumbai Central (MUC)"
+  },
+  {
+    "city": "Mumbai",
+    "detail": "Mumbai Cantt (MUCANTT)"
+  },
+  {
+    "city": "Delhi",
+    "detail": "Delhi Junction (DEL)"
+  },
+  {
+    "city": "Delhi",
+    "detail": "Delhi Central (DEC)"
+  },
+  {
+    "city": "Delhi",
+    "detail": "Delhi Cantt (DECANTT)"
+  },
+  {
+    "city": "Bangalore",
+    "detail": "Bangalore Junction (BAN)"
+  },
+  {
+    "city": "Bangalore",
+    "detail": "Bangalore Central (BAC)"
+  },
+  {
+    "city": "Bangalore",
+    "detail": "Bangalore Cantt (BACANTT)"
+  },
+  {
+    "city": "Hyderabad",
+    "detail": "Hyderabad Junction (HYD)"
+  },
+  {
+    "city": "Hyderabad",
+    "detail": "Hyderabad Central (HYC)"
+  },
+  {
+    "city": "Hyderabad",
+    "detail": "Hyderabad Cantt (HYCANTT)"
+  },
+  {
+    "city": "Ahmedabad",
+    "detail": "Ahmedabad Junction (AHM)"
+  },
+  {
+    "city": "Ahmedabad",
+    "detail": "Ahmedabad Central (AHC)"
+  },
+  {
+    "city": "Ahmedabad",
+    "detail": "Ahmedabad Cantt (AHCANTT)"
+  },
+  {
+    "city": "Chennai",
+    "detail": "Chennai Junction (CHE)"
+  },
+  {
+    "city": "Chennai",
+    "detail": "Chennai Central (CHC)"
+  },
+  {
+    "city": "Chennai",
+    "detail": "Chennai Cantt (CHCANTT)"
+  },
+  {
+    "city": "Kolkata",
+    "detail": "Kolkata Junction (KOL)"
+  },
+  {
+    "city": "Kolkata",
+    "detail": "Kolkata Central (KOC)"
+  },
+  {
+    "city": "Kolkata",
+    "detail": "Kolkata Cantt (KOCANTT)"
+  },
+  {
+    "city": "Surat",
+    "detail": "Surat Junction (SUR)"
+  },
+  {
+    "city": "Surat",
+    "detail": "Surat Central (SUC)"
+  },
+  {
+    "city": "Surat",
+    "detail": "Surat Cantt (SUCANTT)"
+  },
+  {
+    "city": "Pune",
+    "detail": "Pune Junction (PUN)"
+  },
+  {
+    "city": "Pune",
+    "detail": "Pune Central (PUC)"
+  },
+  {
+    "city": "Pune",
+    "detail": "Pune Cantt (PUCANTT)"
+  },
+  {
+    "city": "Jaipur",
+    "detail": "Jaipur Junction (JAI)"
+  },
+  {
+    "city": "Jaipur",
+    "detail": "Jaipur Central (JAC)"
+  },
+  {
+    "city": "Jaipur",
+    "detail": "Jaipur Cantt (JACANTT)"
+  },
+  {
+    "city": "Lucknow",
+    "detail": "Lucknow Junction (LUC)"
+  },
+  {
+    "city": "Lucknow",
+    "detail": "Lucknow Central (LUC)"
+  },
+  {
+    "city": "Lucknow",
+    "detail": "Lucknow Cantt (LUCANTT)"
+  },
+  {
+    "city": "Kanpur",
+    "detail": "Kanpur Junction (KAN)"
+  },
+  {
+    "city": "Kanpur",
+    "detail": "Kanpur Central (KAC)"
+  },
+  {
+    "city": "Kanpur",
+    "detail": "Kanpur Cantt (KACANTT)"
+  },
+  {
+    "city": "Nagpur",
+    "detail": "Nagpur Junction (NAG)"
+  },
+  {
+    "city": "Nagpur",
+    "detail": "Nagpur Central (NAC)"
+  },
+  {
+    "city": "Nagpur",
+    "detail": "Nagpur Cantt (NACANTT)"
+  },
+  {
+    "city": "Indore",
+    "detail": "Indore Junction (IND)"
+  },
+  {
+    "city": "Indore",
+    "detail": "Indore Central (INC)"
+  },
+  {
+    "city": "Indore",
+    "detail": "Indore Cantt (INCANTT)"
+  },
+  {
+    "city": "Thane",
+    "detail": "Thane Junction (THA)"
+  },
+  {
+    "city": "Thane",
+    "detail": "Thane Central (THC)"
+  },
+  {
+    "city": "Thane",
+    "detail": "Thane Cantt (THCANTT)"
+  },
+  {
+    "city": "Bhopal",
+    "detail": "Bhopal Junction (BHO)"
+  },
+  {
+    "city": "Bhopal",
+    "detail": "Bhopal Central (BHC)"
+  },
+  {
+    "city": "Bhopal",
+    "detail": "Bhopal Cantt (BHCANTT)"
+  },
+  {
+    "city": "Visakhapatnam",
+    "detail": "Visakhapatnam Junction (VIS)"
+  },
+  {
+    "city": "Visakhapatnam",
+    "detail": "Visakhapatnam Central (VIC)"
+  },
+  {
+    "city": "Visakhapatnam",
+    "detail": "Visakhapatnam Cantt (VICANTT)"
+  },
+  {
+    "city": "Pimpri-Chinchwad",
+    "detail": "Pimpri-Chinchwad Junction (PIM)"
+  },
+  {
+    "city": "Pimpri-Chinchwad",
+    "detail": "Pimpri-Chinchwad Central (PIC)"
+  },
+  {
+    "city": "Pimpri-Chinchwad",
+    "detail": "Pimpri-Chinchwad Cantt (PICANTT)"
+  },
+  {
+    "city": "Patna",
+    "detail": "Patna Junction (PAT)"
+  },
+  {
+    "city": "Patna",
+    "detail": "Patna Central (PAC)"
+  },
+  {
+    "city": "Patna",
+    "detail": "Patna Cantt (PACANTT)"
+  },
+  {
+    "city": "Vadodara",
+    "detail": "Vadodara Junction (VAD)"
+  },
+  {
+    "city": "Vadodara",
+    "detail": "Vadodara Central (VAC)"
+  },
+  {
+    "city": "Vadodara",
+    "detail": "Vadodara Cantt (VACANTT)"
+  },
+  {
+    "city": "Ghaziabad",
+    "detail": "Ghaziabad Junction (GHA)"
+  },
+  {
+    "city": "Ghaziabad",
+    "detail": "Ghaziabad Central (GHC)"
+  },
+  {
+    "city": "Ghaziabad",
+    "detail": "Ghaziabad Cantt (GHCANTT)"
+  },
+  {
+    "city": "Ludhiana",
+    "detail": "Ludhiana Junction (LUD)"
+  },
+  {
+    "city": "Ludhiana",
+    "detail": "Ludhiana Central (LUC)"
+  },
+  {
+    "city": "Ludhiana",
+    "detail": "Ludhiana Cantt (LUCANTT)"
+  },
+  {
+    "city": "Agra",
+    "detail": "Agra Junction (AGR)"
+  },
+  {
+    "city": "Agra",
+    "detail": "Agra Central (AGC)"
+  },
+  {
+    "city": "Agra",
+    "detail": "Agra Cantt (AGCANTT)"
+  },
+  {
+    "city": "Nashik",
+    "detail": "Nashik Junction (NAS)"
+  },
+  {
+    "city": "Nashik",
+    "detail": "Nashik Central (NAC)"
+  },
+  {
+    "city": "Nashik",
+    "detail": "Nashik Cantt (NACANTT)"
+  },
+  {
+    "city": "Faridabad",
+    "detail": "Faridabad Junction (FAR)"
+  },
+  {
+    "city": "Faridabad",
+    "detail": "Faridabad Central (FAC)"
+  },
+  {
+    "city": "Faridabad",
+    "detail": "Faridabad Cantt (FACANTT)"
+  },
+  {
+    "city": "Meerut",
+    "detail": "Meerut Junction (MEE)"
+  },
+  {
+    "city": "Meerut",
+    "detail": "Meerut Central (MEC)"
+  },
+  {
+    "city": "Meerut",
+    "detail": "Meerut Cantt (MECANTT)"
+  },
+  {
+    "city": "Rajkot",
+    "detail": "Rajkot Junction (RAJ)"
+  },
+  {
+    "city": "Rajkot",
+    "detail": "Rajkot Central (RAC)"
+  },
+  {
+    "city": "Rajkot",
+    "detail": "Rajkot Cantt (RACANTT)"
+  },
+  {
+    "city": "Kalyan-Dombivli",
+    "detail": "Kalyan-Dombivli Junction (KAL)"
+  },
+  {
+    "city": "Kalyan-Dombivli",
+    "detail": "Kalyan-Dombivli Central (KAC)"
+  },
+  {
+    "city": "Kalyan-Dombivli",
+    "detail": "Kalyan-Dombivli Cantt (KACANTT)"
+  },
+  {
+    "city": "Vasai-Virar",
+    "detail": "Vasai-Virar Junction (VAS)"
+  },
+  {
+    "city": "Vasai-Virar",
+    "detail": "Vasai-Virar Central (VAC)"
+  },
+  {
+    "city": "Vasai-Virar",
+    "detail": "Vasai-Virar Cantt (VACANTT)"
+  },
+  {
+    "city": "Varanasi",
+    "detail": "Varanasi Junction (VAR)"
+  },
+  {
+    "city": "Varanasi",
+    "detail": "Varanasi Central (VAC)"
+  },
+  {
+    "city": "Varanasi",
+    "detail": "Varanasi Cantt (VACANTT)"
+  },
+  {
+    "city": "Srinagar",
+    "detail": "Srinagar Junction (SRI)"
+  },
+  {
+    "city": "Srinagar",
+    "detail": "Srinagar Central (SRC)"
+  },
+  {
+    "city": "Srinagar",
+    "detail": "Srinagar Cantt (SRCANTT)"
+  },
+  {
+    "city": "Aurangabad",
+    "detail": "Aurangabad Junction (AUR)"
+  },
+  {
+    "city": "Aurangabad",
+    "detail": "Aurangabad Central (AUC)"
+  },
+  {
+    "city": "Aurangabad",
+    "detail": "Aurangabad Cantt (AUCANTT)"
+  },
+  {
+    "city": "Dhanbad",
+    "detail": "Dhanbad Junction (DHA)"
+  },
+  {
+    "city": "Dhanbad",
+    "detail": "Dhanbad Central (DHC)"
+  },
+  {
+    "city": "Dhanbad",
+    "detail": "Dhanbad Cantt (DHCANTT)"
+  },
+  {
+    "city": "Amritsar",
+    "detail": "Amritsar Junction (AMR)"
+  },
+  {
+    "city": "Amritsar",
+    "detail": "Amritsar Central (AMC)"
+  },
+  {
+    "city": "Amritsar",
+    "detail": "Amritsar Cantt (AMCANTT)"
+  },
+  {
+    "city": "Navi Mumbai",
+    "detail": "Navi Mumbai Junction (NAV)"
+  },
+  {
+    "city": "Navi Mumbai",
+    "detail": "Navi Mumbai Central (NAC)"
+  },
+  {
+    "city": "Navi Mumbai",
+    "detail": "Navi Mumbai Cantt (NACANTT)"
+  },
+  {
+    "city": "Allahabad",
+    "detail": "Allahabad Junction (ALL)"
+  },
+  {
+    "city": "Allahabad",
+    "detail": "Allahabad Central (ALC)"
+  },
+  {
+    "city": "Allahabad",
+    "detail": "Allahabad Cantt (ALCANTT)"
+  },
+  {
+    "city": "Ranchi",
+    "detail": "Ranchi Junction (RAN)"
+  },
+  {
+    "city": "Ranchi",
+    "detail": "Ranchi Central (RAC)"
+  },
+  {
+    "city": "Ranchi",
+    "detail": "Ranchi Cantt (RACANTT)"
+  },
+  {
+    "city": "Howrah",
+    "detail": "Howrah Junction (HOW)"
+  },
+  {
+    "city": "Howrah",
+    "detail": "Howrah Central (HOC)"
+  },
+  {
+    "city": "Howrah",
+    "detail": "Howrah Cantt (HOCANTT)"
+  },
+  {
+    "city": "Coimbatore",
+    "detail": "Coimbatore Junction (COI)"
+  },
+  {
+    "city": "Coimbatore",
+    "detail": "Coimbatore Central (COC)"
+  },
+  {
+    "city": "Coimbatore",
+    "detail": "Coimbatore Cantt (COCANTT)"
+  },
+  {
+    "city": "Jabalpur",
+    "detail": "Jabalpur Junction (JAB)"
+  },
+  {
+    "city": "Jabalpur",
+    "detail": "Jabalpur Central (JAC)"
+  },
+  {
+    "city": "Jabalpur",
+    "detail": "Jabalpur Cantt (JACANTT)"
+  },
+  {
+    "city": "Gwalior",
+    "detail": "Gwalior Junction (GWA)"
+  },
+  {
+    "city": "Gwalior",
+    "detail": "Gwalior Central (GWC)"
+  },
+  {
+    "city": "Gwalior",
+    "detail": "Gwalior Cantt (GWCANTT)"
+  },
+  {
+    "city": "Vijayawada",
+    "detail": "Vijayawada Junction (VIJ)"
+  },
+  {
+    "city": "Vijayawada",
+    "detail": "Vijayawada Central (VIC)"
+  },
+  {
+    "city": "Vijayawada",
+    "detail": "Vijayawada Cantt (VICANTT)"
+  },
+  {
+    "city": "Jodhpur",
+    "detail": "Jodhpur Junction (JOD)"
+  },
+  {
+    "city": "Jodhpur",
+    "detail": "Jodhpur Central (JOC)"
+  },
+  {
+    "city": "Jodhpur",
+    "detail": "Jodhpur Cantt (JOCANTT)"
+  },
+  {
+    "city": "Madurai",
+    "detail": "Madurai Junction (MAD)"
+  },
+  {
+    "city": "Madurai",
+    "detail": "Madurai Central (MAC)"
+  },
+  {
+    "city": "Madurai",
+    "detail": "Madurai Cantt (MACANTT)"
+  },
+  {
+    "city": "Raipur",
+    "detail": "Raipur Junction (RAI)"
+  },
+  {
+    "city": "Raipur",
+    "detail": "Raipur Central (RAC)"
+  },
+  {
+    "city": "Raipur",
+    "detail": "Raipur Cantt (RACANTT)"
+  },
+  {
+    "city": "Kota",
+    "detail": "Kota Junction (KOT)"
+  },
+  {
+    "city": "Kota",
+    "detail": "Kota Central (KOC)"
+  },
+  {
+    "city": "Kota",
+    "detail": "Kota Cantt (KOCANTT)"
+  },
+  {
+    "city": "Chandigarh",
+    "detail": "Chandigarh Junction (CHA)"
+  },
+  {
+    "city": "Chandigarh",
+    "detail": "Chandigarh Central (CHC)"
+  },
+  {
+    "city": "Chandigarh",
+    "detail": "Chandigarh Cantt (CHCANTT)"
+  },
+  {
+    "city": "Guwahati",
+    "detail": "Guwahati Junction (GUW)"
+  },
+  {
+    "city": "Guwahati",
+    "detail": "Guwahati Central (GUC)"
+  },
+  {
+    "city": "Guwahati",
+    "detail": "Guwahati Cantt (GUCANTT)"
+  },
+  {
+    "city": "Solapur",
+    "detail": "Solapur Junction (SOL)"
+  },
+  {
+    "city": "Solapur",
+    "detail": "Solapur Central (SOC)"
+  },
+  {
+    "city": "Solapur",
+    "detail": "Solapur Cantt (SOCANTT)"
+  },
+  {
+    "city": "Hubli-Dharwad",
+    "detail": "Hubli-Dharwad Junction (HUB)"
+  },
+  {
+    "city": "Hubli-Dharwad",
+    "detail": "Hubli-Dharwad Central (HUC)"
+  },
+  {
+    "city": "Hubli-Dharwad",
+    "detail": "Hubli-Dharwad Cantt (HUCANTT)"
+  },
+  {
+    "city": "Tiruchirappalli",
+    "detail": "Tiruchirappalli Junction (TIR)"
+  },
+  {
+    "city": "Tiruchirappalli",
+    "detail": "Tiruchirappalli Central (TIC)"
+  },
+  {
+    "city": "Tiruchirappalli",
+    "detail": "Tiruchirappalli Cantt (TICANTT)"
+  },
+  {
+    "city": "Bareilly",
+    "detail": "Bareilly Junction (BAR)"
+  },
+  {
+    "city": "Bareilly",
+    "detail": "Bareilly Central (BAC)"
+  },
+  {
+    "city": "Bareilly",
+    "detail": "Bareilly Cantt (BACANTT)"
+  },
+  {
+    "city": "Moradabad",
+    "detail": "Moradabad Junction (MOR)"
+  },
+  {
+    "city": "Moradabad",
+    "detail": "Moradabad Central (MOC)"
+  },
+  {
+    "city": "Moradabad",
+    "detail": "Moradabad Cantt (MOCANTT)"
+  },
+  {
+    "city": "Mysore",
+    "detail": "Mysore Junction (MYS)"
+  },
+  {
+    "city": "Mysore",
+    "detail": "Mysore Central (MYC)"
+  },
+  {
+    "city": "Mysore",
+    "detail": "Mysore Cantt (MYCANTT)"
+  },
+  {
+    "city": "Tiruppur",
+    "detail": "Tiruppur Junction (TIR)"
+  },
+  {
+    "city": "Tiruppur",
+    "detail": "Tiruppur Central (TIC)"
+  },
+  {
+    "city": "Tiruppur",
+    "detail": "Tiruppur Cantt (TICANTT)"
+  },
+  {
+    "city": "Gurgaon",
+    "detail": "Gurgaon Junction (GUR)"
+  },
+  {
+    "city": "Gurgaon",
+    "detail": "Gurgaon Central (GUC)"
+  },
+  {
+    "city": "Gurgaon",
+    "detail": "Gurgaon Cantt (GUCANTT)"
+  },
+  {
+    "city": "Aligarh",
+    "detail": "Aligarh Junction (ALI)"
+  },
+  {
+    "city": "Aligarh",
+    "detail": "Aligarh Central (ALC)"
+  },
+  {
+    "city": "Aligarh",
+    "detail": "Aligarh Cantt (ALCANTT)"
+  },
+  {
+    "city": "Jalandhar",
+    "detail": "Jalandhar Junction (JAL)"
+  },
+  {
+    "city": "Jalandhar",
+    "detail": "Jalandhar Central (JAC)"
+  },
+  {
+    "city": "Jalandhar",
+    "detail": "Jalandhar Cantt (JACANTT)"
+  },
+  {
+    "city": "Bhubaneswar",
+    "detail": "Bhubaneswar Junction (BHU)"
+  },
+  {
+    "city": "Bhubaneswar",
+    "detail": "Bhubaneswar Central (BHC)"
+  },
+  {
+    "city": "Bhubaneswar",
+    "detail": "Bhubaneswar Cantt (BHCANTT)"
+  },
+  {
+    "city": "Salem",
+    "detail": "Salem Junction (SAL)"
+  },
+  {
+    "city": "Salem",
+    "detail": "Salem Central (SAC)"
+  },
+  {
+    "city": "Salem",
+    "detail": "Salem Cantt (SACANTT)"
+  },
+  {
+    "city": "Mira-Bhayandar",
+    "detail": "Mira-Bhayandar Junction (MIR)"
+  },
+  {
+    "city": "Mira-Bhayandar",
+    "detail": "Mira-Bhayandar Central (MIC)"
+  },
+  {
+    "city": "Mira-Bhayandar",
+    "detail": "Mira-Bhayandar Cantt (MICANTT)"
+  },
+  {
+    "city": "Warangal",
+    "detail": "Warangal Junction (WAR)"
+  },
+  {
+    "city": "Warangal",
+    "detail": "Warangal Central (WAC)"
+  },
+  {
+    "city": "Warangal",
+    "detail": "Warangal Cantt (WACANTT)"
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "detail": "Thiruvananthapuram Junction (THI)"
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "detail": "Thiruvananthapuram Central (THC)"
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "detail": "Thiruvananthapuram Cantt (THCANTT)"
+  },
+  {
+    "city": "Guntur",
+    "detail": "Guntur Junction (GUN)"
+  },
+  {
+    "city": "Guntur",
+    "detail": "Guntur Central (GUC)"
+  },
+  {
+    "city": "Guntur",
+    "detail": "Guntur Cantt (GUCANTT)"
+  },
+  {
+    "city": "Bhiwandi",
+    "detail": "Bhiwandi Junction (BHI)"
+  },
+  {
+    "city": "Bhiwandi",
+    "detail": "Bhiwandi Central (BHC)"
+  },
+  {
+    "city": "Bhiwandi",
+    "detail": "Bhiwandi Cantt (BHCANTT)"
+  },
+  {
+    "city": "Saharanpur",
+    "detail": "Saharanpur Junction (SAH)"
+  },
+  {
+    "city": "Saharanpur",
+    "detail": "Saharanpur Central (SAC)"
+  },
+  {
+    "city": "Saharanpur",
+    "detail": "Saharanpur Cantt (SACANTT)"
+  },
+  {
+    "city": "Gorakhpur",
+    "detail": "Gorakhpur Junction (GOR)"
+  },
+  {
+    "city": "Gorakhpur",
+    "detail": "Gorakhpur Central (GOC)"
+  },
+  {
+    "city": "Gorakhpur",
+    "detail": "Gorakhpur Cantt (GOCANTT)"
+  },
+  {
+    "city": "Bikaner",
+    "detail": "Bikaner Junction (BIK)"
+  },
+  {
+    "city": "Bikaner",
+    "detail": "Bikaner Central (BIC)"
+  },
+  {
+    "city": "Bikaner",
+    "detail": "Bikaner Cantt (BICANTT)"
+  },
+  {
+    "city": "Amravati",
+    "detail": "Amravati Junction (AMR)"
+  },
+  {
+    "city": "Amravati",
+    "detail": "Amravati Central (AMC)"
+  },
+  {
+    "city": "Amravati",
+    "detail": "Amravati Cantt (AMCANTT)"
+  },
+  {
+    "city": "Noida",
+    "detail": "Noida Junction (NOI)"
+  },
+  {
+    "city": "Noida",
+    "detail": "Noida Central (NOC)"
+  },
+  {
+    "city": "Noida",
+    "detail": "Noida Cantt (NOCANTT)"
+  },
+  {
+    "city": "Jamshedpur",
+    "detail": "Jamshedpur Junction (JAM)"
+  },
+  {
+    "city": "Jamshedpur",
+    "detail": "Jamshedpur Central (JAC)"
+  },
+  {
+    "city": "Jamshedpur",
+    "detail": "Jamshedpur Cantt (JACANTT)"
+  },
+  {
+    "city": "Bhilai",
+    "detail": "Bhilai Junction (BHI)"
+  },
+  {
+    "city": "Bhilai",
+    "detail": "Bhilai Central (BHC)"
+  },
+  {
+    "city": "Bhilai",
+    "detail": "Bhilai Cantt (BHCANTT)"
+  },
+  {
+    "city": "Cuttack",
+    "detail": "Cuttack Junction (CUT)"
+  },
+  {
+    "city": "Cuttack",
+    "detail": "Cuttack Central (CUC)"
+  },
+  {
+    "city": "Cuttack",
+    "detail": "Cuttack Cantt (CUCANTT)"
+  },
+  {
+    "city": "Firozabad",
+    "detail": "Firozabad Junction (FIR)"
+  },
+  {
+    "city": "Firozabad",
+    "detail": "Firozabad Central (FIC)"
+  },
+  {
+    "city": "Firozabad",
+    "detail": "Firozabad Cantt (FICANTT)"
+  },
+  {
+    "city": "Kochi",
+    "detail": "Kochi Junction (KOC)"
+  },
+  {
+    "city": "Kochi",
+    "detail": "Kochi Central (KOC)"
+  },
+  {
+    "city": "Kochi",
+    "detail": "Kochi Cantt (KOCANTT)"
+  },
+  {
+    "city": "Nellore",
+    "detail": "Nellore Junction (NEL)"
+  },
+  {
+    "city": "Nellore",
+    "detail": "Nellore Central (NEC)"
+  },
+  {
+    "city": "Nellore",
+    "detail": "Nellore Cantt (NECANTT)"
+  },
+  {
+    "city": "Bhavnagar",
+    "detail": "Bhavnagar Junction (BHA)"
+  },
+  {
+    "city": "Bhavnagar",
+    "detail": "Bhavnagar Central (BHC)"
+  },
+  {
+    "city": "Bhavnagar",
+    "detail": "Bhavnagar Cantt (BHCANTT)"
+  },
+  {
+    "city": "Dehradun",
+    "detail": "Dehradun Junction (DEH)"
+  },
+  {
+    "city": "Dehradun",
+    "detail": "Dehradun Central (DEC)"
+  },
+  {
+    "city": "Dehradun",
+    "detail": "Dehradun Cantt (DECANTT)"
+  },
+  {
+    "city": "Durgapur",
+    "detail": "Durgapur Junction (DUR)"
+  },
+  {
+    "city": "Durgapur",
+    "detail": "Durgapur Central (DUC)"
+  },
+  {
+    "city": "Durgapur",
+    "detail": "Durgapur Cantt (DUCANTT)"
+  },
+  {
+    "city": "Asansol",
+    "detail": "Asansol Junction (ASA)"
+  },
+  {
+    "city": "Asansol",
+    "detail": "Asansol Central (ASC)"
+  },
+  {
+    "city": "Asansol",
+    "detail": "Asansol Cantt (ASCANTT)"
+  },
+  {
+    "city": "Rourkela",
+    "detail": "Rourkela Junction (ROU)"
+  },
+  {
+    "city": "Rourkela",
+    "detail": "Rourkela Central (ROC)"
+  },
+  {
+    "city": "Rourkela",
+    "detail": "Rourkela Cantt (ROCANTT)"
+  },
+  {
+    "city": "Nanded",
+    "detail": "Nanded Junction (NAN)"
+  },
+  {
+    "city": "Nanded",
+    "detail": "Nanded Central (NAC)"
+  },
+  {
+    "city": "Nanded",
+    "detail": "Nanded Cantt (NACANTT)"
+  },
+  {
+    "city": "Kolhapur",
+    "detail": "Kolhapur Junction (KOL)"
+  },
+  {
+    "city": "Kolhapur",
+    "detail": "Kolhapur Central (KOC)"
+  },
+  {
+    "city": "Kolhapur",
+    "detail": "Kolhapur Cantt (KOCANTT)"
+  },
+  {
+    "city": "Ajmer",
+    "detail": "Ajmer Junction (AJM)"
+  },
+  {
+    "city": "Ajmer",
+    "detail": "Ajmer Central (AJC)"
+  },
+  {
+    "city": "Ajmer",
+    "detail": "Ajmer Cantt (AJCANTT)"
+  },
+  {
+    "city": "Akola",
+    "detail": "Akola Junction (AKO)"
+  },
+  {
+    "city": "Akola",
+    "detail": "Akola Central (AKC)"
+  },
+  {
+    "city": "Akola",
+    "detail": "Akola Cantt (AKCANTT)"
+  },
+  {
+    "city": "Gulbarga",
+    "detail": "Gulbarga Junction (GUL)"
+  },
+  {
+    "city": "Gulbarga",
+    "detail": "Gulbarga Central (GUC)"
+  },
+  {
+    "city": "Gulbarga",
+    "detail": "Gulbarga Cantt (GUCANTT)"
+  },
+  {
+    "city": "Jamnagar",
+    "detail": "Jamnagar Junction (JAM)"
+  },
+  {
+    "city": "Jamnagar",
+    "detail": "Jamnagar Central (JAC)"
+  },
+  {
+    "city": "Jamnagar",
+    "detail": "Jamnagar Cantt (JACANTT)"
+  },
+  {
+    "city": "Ujjain",
+    "detail": "Ujjain Junction (UJJ)"
+  },
+  {
+    "city": "Ujjain",
+    "detail": "Ujjain Central (UJC)"
+  },
+  {
+    "city": "Ujjain",
+    "detail": "Ujjain Cantt (UJCANTT)"
+  },
+  {
+    "city": "Loni",
+    "detail": "Loni Junction (LON)"
+  },
+  {
+    "city": "Loni",
+    "detail": "Loni Central (LOC)"
+  },
+  {
+    "city": "Loni",
+    "detail": "Loni Cantt (LOCANTT)"
+  },
+  {
+    "city": "Siliguri",
+    "detail": "Siliguri Junction (SIL)"
+  },
+  {
+    "city": "Siliguri",
+    "detail": "Siliguri Central (SIC)"
+  },
+  {
+    "city": "Siliguri",
+    "detail": "Siliguri Cantt (SICANTT)"
+  },
+  {
+    "city": "Jhansi",
+    "detail": "Jhansi Junction (JHA)"
+  },
+  {
+    "city": "Jhansi",
+    "detail": "Jhansi Central (JHC)"
+  },
+  {
+    "city": "Jhansi",
+    "detail": "Jhansi Cantt (JHCANTT)"
+  },
+  {
+    "city": "Ulhasnagar",
+    "detail": "Ulhasnagar Junction (ULH)"
+  },
+  {
+    "city": "Ulhasnagar",
+    "detail": "Ulhasnagar Central (ULC)"
+  },
+  {
+    "city": "Ulhasnagar",
+    "detail": "Ulhasnagar Cantt (ULCANTT)"
+  },
+  {
+    "city": "Jammu",
+    "detail": "Jammu Junction (JAM)"
+  },
+  {
+    "city": "Jammu",
+    "detail": "Jammu Central (JAC)"
+  },
+  {
+    "city": "Jammu",
+    "detail": "Jammu Cantt (JACANTT)"
+  },
+  {
+    "city": "Sangli-Miraj & Kupwad",
+    "detail": "Sangli-Miraj & Kupwad Junction (SAN)"
+  },
+  {
+    "city": "Sangli-Miraj & Kupwad",
+    "detail": "Sangli-Miraj & Kupwad Central (SAC)"
+  },
+  {
+    "city": "Sangli-Miraj & Kupwad",
+    "detail": "Sangli-Miraj & Kupwad Cantt (SACANTT)"
+  },
+  {
+    "city": "Mangalore",
+    "detail": "Mangalore Junction (MAN)"
+  },
+  {
+    "city": "Mangalore",
+    "detail": "Mangalore Central (MAC)"
+  },
+  {
+    "city": "Mangalore",
+    "detail": "Mangalore Cantt (MACANTT)"
+  },
+  {
+    "city": "Erode",
+    "detail": "Erode Junction (ERO)"
+  },
+  {
+    "city": "Erode",
+    "detail": "Erode Central (ERC)"
+  },
+  {
+    "city": "Erode",
+    "detail": "Erode Cantt (ERCANTT)"
+  },
+  {
+    "city": "Belgaum",
+    "detail": "Belgaum Junction (BEL)"
+  },
+  {
+    "city": "Belgaum",
+    "detail": "Belgaum Central (BEC)"
+  },
+  {
+    "city": "Belgaum",
+    "detail": "Belgaum Cantt (BECANTT)"
+  },
+  {
+    "city": "Kurnool",
+    "detail": "Kurnool Junction (KUR)"
+  },
+  {
+    "city": "Kurnool",
+    "detail": "Kurnool Central (KUC)"
+  },
+  {
+    "city": "Kurnool",
+    "detail": "Kurnool Cantt (KUCANTT)"
+  },
+  {
+    "city": "Ambattur",
+    "detail": "Ambattur Junction (AMB)"
+  },
+  {
+    "city": "Ambattur",
+    "detail": "Ambattur Central (AMC)"
+  },
+  {
+    "city": "Ambattur",
+    "detail": "Ambattur Cantt (AMCANTT)"
+  },
+  {
+    "city": "Rajahmundry",
+    "detail": "Rajahmundry Junction (RAJ)"
+  },
+  {
+    "city": "Rajahmundry",
+    "detail": "Rajahmundry Central (RAC)"
+  },
+  {
+    "city": "Rajahmundry",
+    "detail": "Rajahmundry Cantt (RACANTT)"
+  },
+  {
+    "city": "Tirunelveli",
+    "detail": "Tirunelveli Junction (TIR)"
+  },
+  {
+    "city": "Tirunelveli",
+    "detail": "Tirunelveli Central (TIC)"
+  },
+  {
+    "city": "Tirunelveli",
+    "detail": "Tirunelveli Cantt (TICANTT)"
+  },
+  {
+    "city": "Malegaon",
+    "detail": "Malegaon Junction (MAL)"
+  },
+  {
+    "city": "Malegaon",
+    "detail": "Malegaon Central (MAC)"
+  },
+  {
+    "city": "Malegaon",
+    "detail": "Malegaon Cantt (MACANTT)"
+  },
+  {
+    "city": "Gaya",
+    "detail": "Gaya Junction (GAY)"
+  },
+  {
+    "city": "Gaya",
+    "detail": "Gaya Central (GAC)"
+  },
+  {
+    "city": "Gaya",
+    "detail": "Gaya Cantt (GACANTT)"
+  },
+  {
+    "city": "Udaipur",
+    "detail": "Udaipur Junction (UDA)"
+  },
+  {
+    "city": "Udaipur",
+    "detail": "Udaipur Central (UDC)"
+  },
+  {
+    "city": "Udaipur",
+    "detail": "Udaipur Cantt (UDCANTT)"
+  },
+  {
+    "city": "Kakinada",
+    "detail": "Kakinada Junction (KAK)"
+  },
+  {
+    "city": "Kakinada",
+    "detail": "Kakinada Central (KAC)"
+  },
+  {
+    "city": "Kakinada",
+    "detail": "Kakinada Cantt (KACANTT)"
+  },
+  {
+    "city": "Davanagere",
+    "detail": "Davanagere Junction (DAV)"
+  },
+  {
+    "city": "Davanagere",
+    "detail": "Davanagere Central (DAC)"
+  },
+  {
+    "city": "Davanagere",
+    "detail": "Davanagere Cantt (DACANTT)"
+  },
+  {
+    "city": "Kozhikode",
+    "detail": "Kozhikode Junction (KOZ)"
+  },
+  {
+    "city": "Kozhikode",
+    "detail": "Kozhikode Central (KOC)"
+  },
+  {
+    "city": "Kozhikode",
+    "detail": "Kozhikode Cantt (KOCANTT)"
+  },
+  {
+    "city": "Maheshtala",
+    "detail": "Maheshtala Junction (MAH)"
+  },
+  {
+    "city": "Maheshtala",
+    "detail": "Maheshtala Central (MAC)"
+  },
+  {
+    "city": "Maheshtala",
+    "detail": "Maheshtala Cantt (MACANTT)"
+  },
+  {
+    "city": "Rajpur Sonarpur",
+    "detail": "Rajpur Sonarpur Junction (RAJ)"
+  },
+  {
+    "city": "Rajpur Sonarpur",
+    "detail": "Rajpur Sonarpur Central (RAC)"
+  },
+  {
+    "city": "Rajpur Sonarpur",
+    "detail": "Rajpur Sonarpur Cantt (RACANTT)"
+  },
+  {
+    "city": "Bokaro",
+    "detail": "Bokaro Junction (BOK)"
+  },
+  {
+    "city": "Bokaro",
+    "detail": "Bokaro Central (BOC)"
+  },
+  {
+    "city": "Bokaro",
+    "detail": "Bokaro Cantt (BOCANTT)"
+  },
+  {
+    "city": "South Dumdum",
+    "detail": "South Dumdum Junction (SOU)"
+  },
+  {
+    "city": "South Dumdum",
+    "detail": "South Dumdum Central (SOC)"
+  },
+  {
+    "city": "South Dumdum",
+    "detail": "South Dumdum Cantt (SOCANTT)"
+  },
+  {
+    "city": "Bellary",
+    "detail": "Bellary Junction (BEL)"
+  },
+  {
+    "city": "Bellary",
+    "detail": "Bellary Central (BEC)"
+  },
+  {
+    "city": "Bellary",
+    "detail": "Bellary Cantt (BECANTT)"
+  },
+  {
+    "city": "Patiala",
+    "detail": "Patiala Junction (PAT)"
+  },
+  {
+    "city": "Patiala",
+    "detail": "Patiala Central (PAC)"
+  },
+  {
+    "city": "Patiala",
+    "detail": "Patiala Cantt (PACANTT)"
+  },
+  {
+    "city": "Gopalpur",
+    "detail": "Gopalpur Junction (GOP)"
+  },
+  {
+    "city": "Gopalpur",
+    "detail": "Gopalpur Central (GOC)"
+  },
+  {
+    "city": "Gopalpur",
+    "detail": "Gopalpur Cantt (GOCANTT)"
+  },
+  {
+    "city": "Agartala",
+    "detail": "Agartala Junction (AGA)"
+  },
+  {
+    "city": "Agartala",
+    "detail": "Agartala Central (AGC)"
+  },
+  {
+    "city": "Agartala",
+    "detail": "Agartala Cantt (AGCANTT)"
+  },
+  {
+    "city": "Bhagalpur",
+    "detail": "Bhagalpur Junction (BHA)"
+  },
+  {
+    "city": "Bhagalpur",
+    "detail": "Bhagalpur Central (BHC)"
+  },
+  {
+    "city": "Bhagalpur",
+    "detail": "Bhagalpur Cantt (BHCANTT)"
+  },
+  {
+    "city": "Muzaffarnagar",
+    "detail": "Muzaffarnagar Junction (MUZ)"
+  },
+  {
+    "city": "Muzaffarnagar",
+    "detail": "Muzaffarnagar Central (MUC)"
+  },
+  {
+    "city": "Muzaffarnagar",
+    "detail": "Muzaffarnagar Cantt (MUCANTT)"
+  },
+  {
+    "city": "Bhatpara",
+    "detail": "Bhatpara Junction (BHA)"
+  },
+  {
+    "city": "Bhatpara",
+    "detail": "Bhatpara Central (BHC)"
+  },
+  {
+    "city": "Bhatpara",
+    "detail": "Bhatpara Cantt (BHCANTT)"
+  },
+  {
+    "city": "Panihati",
+    "detail": "Panihati Junction (PAN)"
+  },
+  {
+    "city": "Panihati",
+    "detail": "Panihati Central (PAC)"
+  },
+  {
+    "city": "Panihati",
+    "detail": "Panihati Cantt (PACANTT)"
+  },
+  {
+    "city": "Latur",
+    "detail": "Latur Junction (LAT)"
+  },
+  {
+    "city": "Latur",
+    "detail": "Latur Central (LAC)"
+  },
+  {
+    "city": "Latur",
+    "detail": "Latur Cantt (LACANTT)"
+  },
+  {
+    "city": "Dhule",
+    "detail": "Dhule Junction (DHU)"
+  },
+  {
+    "city": "Dhule",
+    "detail": "Dhule Central (DHC)"
+  },
+  {
+    "city": "Dhule",
+    "detail": "Dhule Cantt (DHCANTT)"
+  },
+  {
+    "city": "Rohtak",
+    "detail": "Rohtak Junction (ROH)"
+  },
+  {
+    "city": "Rohtak",
+    "detail": "Rohtak Central (ROC)"
+  },
+  {
+    "city": "Rohtak",
+    "detail": "Rohtak Cantt (ROCANTT)"
+  },
+  {
+    "city": "Korba",
+    "detail": "Korba Junction (KOR)"
+  },
+  {
+    "city": "Korba",
+    "detail": "Korba Central (KOC)"
+  },
+  {
+    "city": "Korba",
+    "detail": "Korba Cantt (KOCANTT)"
+  },
+  {
+    "city": "Bhilwara",
+    "detail": "Bhilwara Junction (BHI)"
+  },
+  {
+    "city": "Bhilwara",
+    "detail": "Bhilwara Central (BHC)"
+  },
+  {
+    "city": "Bhilwara",
+    "detail": "Bhilwara Cantt (BHCANTT)"
+  },
+  {
+    "city": "Brahmapur",
+    "detail": "Brahmapur Junction (BRA)"
+  },
+  {
+    "city": "Brahmapur",
+    "detail": "Brahmapur Central (BRC)"
+  },
+  {
+    "city": "Brahmapur",
+    "detail": "Brahmapur Cantt (BRCANTT)"
+  },
+  {
+    "city": "Muzaffarpur",
+    "detail": "Muzaffarpur Junction (MUZ)"
+  },
+  {
+    "city": "Muzaffarpur",
+    "detail": "Muzaffarpur Central (MUC)"
+  },
+  {
+    "city": "Muzaffarpur",
+    "detail": "Muzaffarpur Cantt (MUCANTT)"
+  },
+  {
+    "city": "Ahmednagar",
+    "detail": "Ahmednagar Junction (AHM)"
+  },
+  {
+    "city": "Ahmednagar",
+    "detail": "Ahmednagar Central (AHC)"
+  },
+  {
+    "city": "Ahmednagar",
+    "detail": "Ahmednagar Cantt (AHCANTT)"
+  },
+  {
+    "city": "Mathura",
+    "detail": "Mathura Junction (MAT)"
+  },
+  {
+    "city": "Mathura",
+    "detail": "Mathura Central (MAC)"
+  },
+  {
+    "city": "Mathura",
+    "detail": "Mathura Cantt (MACANTT)"
+  },
+  {
+    "city": "Kollam",
+    "detail": "Kollam Junction (KOL)"
+  },
+  {
+    "city": "Kollam",
+    "detail": "Kollam Central (KOC)"
+  },
+  {
+    "city": "Kollam",
+    "detail": "Kollam Cantt (KOCANTT)"
+  },
+  {
+    "city": "Avadi",
+    "detail": "Avadi Junction (AVA)"
+  },
+  {
+    "city": "Avadi",
+    "detail": "Avadi Central (AVC)"
+  },
+  {
+    "city": "Avadi",
+    "detail": "Avadi Cantt (AVCANTT)"
+  },
+  {
+    "city": "Rajahmundry",
+    "detail": "Rajahmundry Junction (RAJ)"
+  },
+  {
+    "city": "Rajahmundry",
+    "detail": "Rajahmundry Central (RAC)"
+  },
+  {
+    "city": "Rajahmundry",
+    "detail": "Rajahmundry Cantt (RACANTT)"
+  },
+  {
+    "city": "Bilaspur",
+    "detail": "Bilaspur Junction (BIL)"
+  },
+  {
+    "city": "Bilaspur",
+    "detail": "Bilaspur Central (BIC)"
+  },
+  {
+    "city": "Bilaspur",
+    "detail": "Bilaspur Cantt (BICANTT)"
+  },
+  {
+    "city": "Shahjahanpur",
+    "detail": "Shahjahanpur Junction (SHA)"
+  },
+  {
+    "city": "Shahjahanpur",
+    "detail": "Shahjahanpur Central (SHC)"
+  },
+  {
+    "city": "Shahjahanpur",
+    "detail": "Shahjahanpur Cantt (SHCANTT)"
+  },
+  {
+    "city": "Thrissur",
+    "detail": "Thrissur Junction (THR)"
+  },
+  {
+    "city": "Thrissur",
+    "detail": "Thrissur Central (THC)"
+  },
+  {
+    "city": "Thrissur",
+    "detail": "Thrissur Cantt (THCANTT)"
+  },
+  {
+    "city": "Alwar",
+    "detail": "Alwar Junction (ALW)"
+  },
+  {
+    "city": "Alwar",
+    "detail": "Alwar Central (ALC)"
+  },
+  {
+    "city": "Alwar",
+    "detail": "Alwar Cantt (ALCANTT)"
+  },
+  {
+    "city": "Kharagpur",
+    "detail": "Kharagpur Junction (KHA)"
+  },
+  {
+    "city": "Kharagpur",
+    "detail": "Kharagpur Central (KHC)"
+  },
+  {
+    "city": "Kharagpur",
+    "detail": "Kharagpur Cantt (KHCANTT)"
+  },
+  {
+    "city": "Nizamabad",
+    "detail": "Nizamabad Junction (NIZ)"
+  },
+  {
+    "city": "Nizamabad",
+    "detail": "Nizamabad Central (NIC)"
+  },
+  {
+    "city": "Nizamabad",
+    "detail": "Nizamabad Cantt (NICANTT)"
+  },
+  {
+    "city": "Aizawl",
+    "detail": "Aizawl Junction (AIZ)"
+  },
+  {
+    "city": "Aizawl",
+    "detail": "Aizawl Central (AIC)"
+  },
+  {
+    "city": "Aizawl",
+    "detail": "Aizawl Cantt (AICANTT)"
+  },
+  {
+    "city": "Ozhukarai",
+    "detail": "Ozhukarai Junction (OZH)"
+  },
+  {
+    "city": "Ozhukarai",
+    "detail": "Ozhukarai Central (OZC)"
+  },
+  {
+    "city": "Ozhukarai",
+    "detail": "Ozhukarai Cantt (OZCANTT)"
+  },
+  {
+    "city": "Dewas",
+    "detail": "Dewas Junction (DEW)"
+  },
+  {
+    "city": "Dewas",
+    "detail": "Dewas Central (DEC)"
+  },
+  {
+    "city": "Dewas",
+    "detail": "Dewas Cantt (DECANTT)"
+  }
+]
